@@ -10,47 +10,26 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.2/ref/settings/
 """
 
-#
-# env = environ.Env(
-#     DEBUG=(bool, False)
-# )
-#
-# # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
-# BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-#
-# environ.Env.read_env(os.path.join(BASE_DIR, 'storevisits/.env'))
-#
-# DEBUG = env('DEBUG')
-#
-# SITE_URL = env.str('SITE_URL', default='http://localhost:8000')
-#
-# SECRET_KEY = env('SECRET_KEY')
-#
-# DATABASES = {
-#     'default': env.db(),
-# }
-#
-# ALLOWED_HOSTS = ['*']
-
-
-
-
+import os, environ
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
+env = environ.Env(
+    DEBUG=(bool, False)
+)
 
-# Quick-start development settings - unsuitable for production
-# See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/
+environ.Env.read_env(os.path.join(BASE_DIR, 'csv_to_db/.env'))
 
-# SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-d++%(4fx#cy&u6bc+ffvoa=cb^yl$z_7n&n))73r&*7imcmvq-'
+DEBUG = env('DEBUG')
 
-# SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+SITE_URL = env.str('SITE_URL', default='http://localhost:8000')
 
-ALLOWED_HOSTS = []
+SECRET_KEY = env('SECRET_KEY')
+
+
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -102,12 +81,8 @@ WSGI_APPLICATION = 'csv_to_db.wsgi.application'
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
 DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
-    }
+    'default': env.db(),
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators
