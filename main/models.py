@@ -1,3 +1,4 @@
+from django.db.models import Sum
 from django.db import models
 
 
@@ -5,8 +6,8 @@ class Blackbox(models.Model):
     aircraft = models.CharField(max_length=200, null=True)
     status = models.CharField(max_length=100, null=True)
     type = models.CharField(max_length=200, null=True)
-    info_count  = models.PositiveIntegerField(default=0)
-    errors_count  = models.PositiveIntegerField(default=0)
+    info_count = models.PositiveIntegerField(default=0)
+    errors_count = models.PositiveIntegerField(default=0)
     pre_legend = models.PositiveIntegerField(default=0)
     warning = models.PositiveIntegerField(default=0)
     paired_b = models.PositiveIntegerField(default=0)
@@ -20,5 +21,13 @@ class Blackbox(models.Model):
     def __str__(self):
         return str(self.aircraft)
 
-    # class Meta:
-    #     unique_together = ['product', 'value', 'name']
+#
+# 'pre_legend',
+# 'warning',
+# 'paired_b',
+# 'legend',
+# 'lower_b',
+# 'repeat_legend',
+# 'upper_a',
+# 'lower_a',
+# 'paired_a',
