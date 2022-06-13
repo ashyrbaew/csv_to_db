@@ -1,0 +1,3001 @@
+priority,type,aircraft,status,errors_count,info_count
+Easy,Lower A,S471A,In progress,884,0
+Easy,Lower A,AN638,In progress,486,0
+Easy,Lower A,AN839,In progress,406,0
+Easy,Lower A,AN639,In progress,257,0
+Easy,Lower A,AN642,Finished,250,0
+Easy,Lower A,AN835,In progress,226,0
+Easy,Lower A,AN635,In progress,190,0
+Easy,Lower A,AN638,In progress,183,0
+Easy,Lower A,AN923,In progress,180,0
+Easy,Lower A,AN835,In progress,181,0
+Easy,Lower A,AN922,Finished,164,0
+Easy,Lower A,AN637,In progress,159,0
+Easy,Lower A,AN629,Finished,159,0
+Easy,Lower A,AN630,Finished,148,0
+Easy,Lower A,AN638,Finished,144,0
+Easy,Lower A,AN636,Finished,117,0
+Usual,Paired A,AN923,Finished,86,0
+Easy,Lower A,AN843,Finished,109,0
+Easy,Lower A,AN843,Finished,105,0
+Easy,Lower A,AN629,In progress,105,0
+Easy,Lower A,AN925,In progress,104,0
+Easy,Lower A,AN921,In progress,103,0
+Easy,Lower A,AN923,Finished,101,0
+Easy,Lower A,AN629,Finished,96,0
+Easy,Lower A,AN930,Finished,106,0
+Easy,Lower A,AN638,Started,95,0
+Hard,Lower A,AN639,Finished,97,0
+Easy,Lower A,AN629,In progress,96,0
+Easy,Lower A,AN929,Finished,101,0
+Easy,Lower A,AN629,Finished,95,0
+Easy,Lower A,AN921,Finished,94,0
+Easy,Lower A,AN846,Finished,88,0
+Easy,Lower A,AN927,In progress,86,0
+Easy,Lower A,AN922,Finished,81,0
+Easy,Lower A,AN927,Finished,80,0
+Easy,Lower A,AN927,In progress,77,0
+Usual,Paired A,AN639,Finished,75,0
+Usual,Paired A,AN836,Finished,73,0
+Easy,Lower A,AN835,In progress,76,0
+Usual,Paired A,AN635,Finished,71,0
+Usual,Paired A,AN844,Finished,70,0
+Easy,Lower A,AN922,Finished,67,0
+Easy,Lower A,AN361,In progress,64,0
+Easy,Lower A,AN924,Finished,62,0
+Easy,Lower A,AN924,In progress,68,0
+Easy,Lower A,AN848,Finished,60,0
+Hard,Paired A,AN924,Finished,49,0
+Usual,Paired A,AN840,Finished,53,0
+Usual,Paired A,AN927,Finished,57,0
+Easy,Lower A,AN638,Finished,63,0
+Usual,Paired A,AN639,Finished,54,0
+Easy,Lower A,AN636,Finished,75,0
+Usual,Paired A,AN924,Finished,51,0
+Hard,Lower A,AN636,Finished,52,0
+Usual,Paired A,AN841,Finished,48,0
+Easy,Lower A,AN927,In progress,47,0
+Easy,Lower A,AN927,Finished,50,0
+Usual,Paired A,AN922,Finished,45,0
+Easy,Lower A,AN638,Finished,81,0
+Easy,Lower A,AN836,Finished,53,0
+Easy,Lower A,AN636,Finished,43,0
+Usual,Paired A,AN928,Finished,43,0
+Easy,Lower A,AN921,In progress,43,0
+Usual,Warning,AN844,In progress,19,1
+Easy,Lower A,AN361,Finished,43,0
+Usual,Paired A,AN925,In progress,39,0
+Usual,Paired A,AN844,Finished,41,0
+Easy,Lower A,AN922,In progress,40,0
+Usual,Paired A,AN923,Finished,39,0
+Usual,Paired A,AN844,Finished,39,0
+Easy,Lower A,AN839,Finished,46,0
+Easy,Lower A,AN921,Finished,73,0
+Usual,Paired A,AN836,Finished,38,0
+Usual,Paired A,AN851,Finished,38,0
+Easy,Warning,AN930,Finished,0,1
+Usual,Upper A,AN835,Finished,38,0
+Easy,Lower A,AN839,Finished,39,0
+Usual,Upper A,AN922,Suspend,37,0
+Usual,Paired A,AN846,Finished,37,0
+Usual,Paired A,AN844,Finished,36,0
+Usual,Paired A,AN642,Finished,36,0
+Easy,Lower A,AN636,Finished,36,0
+Easy,Lower A,AN629,In progress,40,0
+Hard,Paired A,AN361,In progress,72,0
+Usual,Paired A,AN841,Finished,36,0
+Easy,Lower A,AN846,Finished,36,0
+Easy,Lower A,AN845,Started,35,0
+Easy,Warning,AN846,Finished,2,0
+Usual,Paired A,AN836,Finished,35,0
+Usual,Paired A,AN854,Finished,35,0
+Usual,Paired A,AN848,Finished,35,0
+Easy,Lower A,AN854,Started,34,0
+Easy,Lower A,AN927,Finished,34,0
+Easy,Lower A,AN639,In progress,34,0
+Easy,Lower A,AN926,Finished,45,0
+Easy,Lower A,AN639,Finished,34,0
+Usual,Paired A,AN847,Finished,33,0
+Easy,Lower A,AN361,Finished,33,0
+Usual,Paired A,AN925,Finished,33,0
+Easy,Lower A,AN638,In progress,33,0
+Usual,Paired A,AN642,Finished,31,0
+Easy,Lower A,AN842,Finished,32,0
+Easy,Lower A,AN928,Finished,34,0
+Usual,Paired A,AN854,Finished,30,0
+Usual,Paired A,AN845,Finished,30,0
+Usual,Paired A,AN849,Finished,30,0
+Easy,Lower A,AN636,Finished,32,0
+Usual,Paired A,AN637,Finished,29,0
+Easy,Lower A,AN361,Finished,28,0
+Usual,Paired A,AN638,Finished,28,0
+Usual,Paired A,AN638,Finished,28,0
+Easy,Lower A,AN636,Finished,28,0
+Easy,Lower A,AN637,Finished,27,0
+Hard,Paired A,AN636,Finished,27,0
+Easy,Lower A,AN922,In progress,27,0
+Easy,Lower A,AN642,Suspend,26,0
+Usual,Upper A,AN361,Finished,26,0
+Usual,Paired A,AN849,Finished,26,0
+Easy,Lower A,AN930,Finished,26,0
+Usual,Paired A,AN843,Finished,25,0
+Usual,Paired A,AN630,Finished,25,0
+Hard,Lower A,AN638,Finished,25,0
+Easy,Lower A,AN639,Finished,25,0
+Usual,Paired A,AN926,Finished,25,0
+Usual,Paired A,AN846,Finished,24,0
+Usual,Upper A,AN636,Finished,24,0
+Easy,Lower A,AN922,Finished,24,0
+Easy,Lower A,AN924,Finished,24,0
+Usual,Paired A,AN922,Finished,23,0
+Usual,Paired A,AN635,Finished,23,0
+Usual,Paired A,AN636,Finished,23,0
+Usual,Paired A,AN848,In progress,29,0
+Hard,Lower A,AN924,Finished,24,0
+Usual,Repeat Legend,AN635,Finished,0,27
+Usual,Paired A,K298A,Finished,22,0
+Usual,Paired A,AN637,Finished,22,0
+Easy,Lower A,AN851,Finished,22,0
+Usual,Paired A,AN851,Finished,22,0
+Hard,Lower A,AN839,Finished,23,0
+Usual,Paired A,AN843,Finished,22,0
+Usual,Paired A,AN636,Finished,21,0
+Usual,Paired A,AN642,Finished,21,0
+Usual,Paired A,AN638,Finished,21,0
+Easy,Lower A,AN851,Finished,21,0
+Usual,Paired A,AN922,Finished,21,0
+Easy,Lower A,AN927,Finished,21,0
+Usual,Paired A,AN840,Finished,21,0
+Easy,Lower A,AN636,Finished,22,0
+Usual,Paired A,AN853,Finished,21,0
+Easy,Lower A,AN855,In progress,21,0
+Easy,Lower A,AN922,Finished,21,0
+Easy,Lower A,AN840,Finished,22,0
+Easy,Lower A,AN852,Finished,20,0
+Easy,Warning,AN922,Finished,0,1
+Easy,Lower A,AN835,Finished,21,0
+Easy,Lower A,AN844,Finished,24,0
+Easy,Lower A,AN630,Finished,20,0
+Easy,Lower A,AN851,Finished,21,0
+Usual,Paired A,AN639,Finished,20,0
+Easy,Lower A,AN835,Finished,20,0
+Usual,Paired A,AN835,Finished,20,0
+Usual,Paired A,AN629,Finished,15,0
+Usual,Repeat Legend,AN638,Finished,0,25
+Easy,Lower A,K298A,Finished,21,0
+Easy,Lower A,AN636,Finished,27,0
+Usual,Upper A,AN636,Finished,19,0
+Easy,Lower A,AN852,Finished,47,0
+Easy,Lower A,AN835,Finished,19,0
+Easy,Lower A,AN852,Finished,19,0
+Easy,Lower A,AN852,Finished,20,0
+Easy,Lower A,AN927,Finished,19,0
+Easy,Lower A,AN928,Finished,20,0
+Easy,Lower A,AN922,Finished,52,0
+Easy,Lower A,AN922,Finished,28,0
+Easy,Lower A,AN849,Finished,22,0
+Easy,Lower A,AN921,Finished,18,0
+Easy,Lower A,AN854,Finished,20,0
+Usual,Upper A,AN927,Finished,18,0
+Easy,Lower A,AN638,Finished,18,0
+Easy,Lower A,AN925,Finished,24,0
+Easy,Lower A,AN636,Finished,18,0
+Easy,Lower A,AN851,Finished,18,0
+Hard,Paired A,AN926,Finished,18,0
+Usual,Paired A,AN841,Finished,18,0
+Hard,Paired A,AN637,Finished,17,0
+Easy,Lower A,AN852,Finished,17,0
+Easy,Lower A,AN839,Finished,17,0
+Easy,Lower A,AN848,Finished,28,0
+Easy,Lower A,AN636,Finished,19,0
+Easy,Lower A,AN853,Finished,17,0
+Easy,Lower A,AN847,Finished,17,0
+Hard,Lower A,AN925,Finished,24,0
+Easy,Lower A,AN843,Finished,17,0
+Easy,Lower A,AN855,Finished,18,0
+Hard,Lower A,AN922,Finished,50,0
+Easy,Lower A,AN840,Finished,16,0
+Easy,Lower A,AN854,In progress,16,0
+Easy,Lower A,AN637,Finished,16,0
+Easy,Lower A,AN854,Finished,16,0
+Easy,Lower A,AN855,Finished,16,0
+Easy,Lower A,AN854,Finished,16,0
+Easy,Lower A,AN849,Finished,23,0
+Easy,Lower A,AN636,Finished,16,0
+Easy,Lower A,AN925,In progress,16,0
+Usual,Paired A,AN925,Finished,16,0
+Easy,Lower A,AN637,Finished,78,0
+Easy,Lower A,AN924,Finished,16,0
+Usual,Paired A,AN636,Finished,16,0
+Usual,Upper A,AN636,Finished,16,0
+Easy,Lower A,AN930,Finished,16,0
+Usual,Paired A,AN839,Finished,16,0
+Hard,Paired A,AN930,Finished,16,0
+Usual,Paired A,AN638,Finished,16,0
+Usual,Paired A,AN929,Finished,16,0
+Easy,Lower A,AN636,Finished,16,0
+Usual,Paired A,AN849,Finished,16,0
+Easy,Lower A,AN629,Finished,16,0
+Easy,Lower A,AN629,Finished,40,0
+Usual,Upper A,AN924,Finished,15,0
+Usual,Paired A,AN851,Finished,15,0
+Easy,Lower A,AN639,Suspend,15,0
+Usual,Paired A,AN844,Finished,15,0
+Easy,Lower A,AN637,Finished,15,0
+Easy,Lower A,AN637,Finished,15,0
+Easy,Lower A,AN635,Finished,20,0
+Easy,Lower A,AN636,Finished,15,0
+Easy,Lower A,AN851,Finished,15,0
+Usual,Paired A,AN851,Finished,15,0
+Easy,Lower A,AN854,Finished,18,0
+Usual,Paired A,AN855,Finished,15,0
+Easy,Lower A,AN924,Finished,15,0
+Usual,Paired A,AN635,Finished,30,0
+Usual,Upper A,AN849,Finished,15,0
+Easy,Lower A,AN849,Finished,15,0
+Easy,Lower A,AN849,Finished,15,0
+Easy,Lower A,AN853,Started,15,0
+Usual,Paired A,AN849,Finished,15,0
+Easy,Lower A,AN635,In progress,15,0
+Easy,Lower A,AN629,Finished,16,0
+Usual,Paired A,AN638,Finished,14,0
+Usual,Upper A,AN921,Finished,14,0
+Easy,Lower A,AN849,Finished,14,0
+Easy,Lower A,AN849,Finished,14,0
+Hard,Lower A,AN930,Finished,14,0
+Easy,Lower A,AN836,Finished,14,0
+Easy,Lower A,AN639,Finished,14,0
+Easy,Lower A,AN840,Finished,17,0
+Hard,Lower A,AN839,Finished,14,0
+Usual,Paired A,AN835,Finished,23,0
+Easy,Lower A,AN639,Finished,14,0
+Usual,Legend,AN639,Finished,0,15
+Usual,Paired A,S552A,Finished,14,0
+Easy,Lower A,AN639,Finished,14,0
+Easy,Lower A,AN635,Finished,14,0
+Easy,Lower A,AN927,Finished,15,0
+Easy,Lower A,AN638,Finished,14,0
+Easy,Lower A,AN927,Finished,14,0
+Easy,Lower A,AN853,Finished,14,0
+Easy,Lower A,AN637,Finished,16,0
+Usual,Paired A,AN636,Finished,28,0
+Easy,Lower A,AN841,Finished,14,0
+Easy,Lower A,AN639,Finished,17,0
+Usual,Paired A,AN928,Finished,13,0
+Easy,Lower A,AN842,Finished,13,0
+Usual,Paired A,AN842,Finished,14,0
+Usual,Paired A,AN927,Finished,14,0
+Usual,Paired A,AN847,Finished,14,0
+Easy,Lower A,AN855,Finished,14,0
+Hard,Lower A,AN638,Finished,14,0
+Usual,Upper A,AN361,Finished,14,0
+Usual,Paired A,AN922,Finished,23,0
+Hard,Lower A,AN639,Finished,14,0
+Usual,Paired A,AN635,Finished,14,0
+Hard,Paired A,AN928,Finished,13,0
+Usual,Paired A,AN922,Started,24,0
+Usual,Paired A,AN921,Finished,13,0
+Easy,Lower A,AN629,Finished,13,0
+Usual,Paired A,AN636,Finished,13,0
+Easy,Lower A,AN851,Finished,15,0
+Usual,Paired A,AN929,Finished,13,0
+Usual,Upper A,AN847,In progress,13,0
+Easy,Lower A,AN922,Finished,13,0
+Easy,Lower A,AN637,Finished,13,0
+Easy,Lower A,AN636,Finished,16,0
+Easy,Lower A,AN629,Finished,59,0
+Easy,Lower A,AN922,Finished,14,0
+Easy,Lower A,AN844,Finished,13,0
+Easy,Lower A,AN837,Finished,13,0
+Easy,Lower A,AN629,Finished,13,0
+Hard,Lower A,AN629,Finished,13,0
+Hard,Paired A,AN837,Finished,13,0
+Usual,Legend,AN837,Finished,0,13
+Easy,Lower A,S594A,Finished,13,0
+Hard,Lower A,AN925,In progress,13,0
+Easy,Lower A,AN922,Finished,13,0
+Easy,Lower A,AN851,Finished,13,0
+Easy,Lower A,AN364,Finished,13,0
+Easy,Lower A,AN630,Finished,14,0
+Usual,Upper A,AN839,Finished,13,0
+Easy,Lower A,AN852,Finished,13,0
+Easy,Lower A,AN638,Finished,13,0
+Hard,Lower A,AN630,Finished,13,0
+Easy,Lower A,AN851,Finished,18,0
+Easy,Lower A,AN638,Finished,17,0
+Easy,Lower A,AN845,Finished,13,0
+Hard,Upper A,AN922,Finished,13,0
+Easy,Lower A,AN922,Finished,17,0
+Easy,Lower A,AN843,Finished,12,0
+Easy,Lower A,AN930,Finished,12,0
+Hard,Paired A,AN629,Finished,12,0
+Easy,Lower A,AN840,Finished,15,0
+Easy,Lower A,AN637,Finished,12,0
+Easy,Lower A,AN837,Finished,12,0
+Easy,Lower A,AN847,In progress,12,0
+Easy,Lower A,AN847,Finished,14,0
+Easy,Lower A,AN637,Finished,12,0
+Easy,Lower A,AN930,Finished,12,0
+Usual,Paired A,AN930,Finished,12,0
+Easy,Lower A,AN926,Finished,12,0
+Easy,Lower A,AN924,Finished,12,0
+Usual,Upper A,AN930,In progress,12,0
+Easy,Lower A,AN926,Finished,12,0
+Hard,Paired A,AN845,Finished,13,0
+Usual,Paired A,AN843,Finished,12,0
+Easy,Lower A,AN836,Finished,20,0
+Easy,Lower A,AN844,Finished,12,0
+Easy,Lower A,AN851,In progress,12,0
+Hard,Paired A,AN928,In progress,12,0
+Usual,Paired A,AN361,Finished,12,0
+Easy,Lower A,AN637,Finished,15,0
+Easy,Lower A,AN854,Finished,19,0
+Easy,Lower A,AN638,Finished,12,0
+Hard,Paired A,AN855,Finished,12,0
+Easy,Lower A,AN836,Finished,12,0
+Easy,Lower A,AN855,Finished,12,0
+Easy,Lower A,AN629,Finished,12,0
+Easy,Lower A,AN629,Finished,12,0
+Hard,Lower A,AN926,Finished,12,0
+Usual,Upper A,AN853,Finished,12,0
+Usual,Paired A,AN842,Finished,12,0
+Usual,Paired A,AN629,Finished,12,0
+Easy,Lower A,AN847,Finished,12,0
+Usual,Paired A,AN847,Finished,12,0
+Hard,Paired A,AN630,Finished,12,0
+Hard,Lower A,AN629,Finished,12,0
+Usual,Paired A,AN629,Finished,12,0
+Usual,Paired A,AN838,Finished,12,0
+Usual,Upper A,AN845,Finished,11,0
+Usual,Paired A,AN838,Finished,11,0
+Usual,Paired A,AN924,Finished,11,0
+Usual,Paired A,AN836,Finished,11,0
+Easy,Lower A,AN637,In progress,11,0
+Usual,Paired A,AN921,Finished,11,0
+Easy,Lower A,AN836,Finished,11,0
+Usual,Repeat Legend,AN836,Finished,0,7
+Usual,Paired A,S558A,Finished,11,0
+Usual,Paired A,AN847,Finished,11,0
+Usual,Paired A,AN921,Finished,11,0
+Usual,Paired A,AN836,Finished,11,0
+Usual,Paired A,AN846,In progress,11,0
+Easy,Lower A,AN361,Finished,11,0
+Usual,Paired A,AN629,Finished,11,0
+Usual,Upper A,AN637,In progress,11,0
+Easy,Lower A,AN921,Finished,25,0
+Easy,Lower A,AN638,Finished,12,0
+Easy,Lower A,AN629,Finished,11,0
+Easy,Lower A,AN928,Finished,11,0
+Easy,Lower A,AN635,Finished,11,0
+Easy,Lower A,AN639,Finished,22,0
+Easy,Lower A,AN630,Finished,11,0
+Easy,Lower A,AN843,Finished,12,0
+Easy,Lower A,AN924,Finished,11,0
+Usual,Paired A,AN837,Finished,11,0
+Usual,Paired A,AN836,Finished,16,0
+Easy,Lower A,AN851,Finished,13,0
+Easy,Lower A,AN638,Finished,14,0
+Easy,Lower A,AN642,Started,11,0
+Easy,Lower A,AN838,Finished,14,0
+Usual,Paired A,AN847,Finished,11,0
+Easy,Lower A,AN642,Finished,11,0
+Easy,Lower A,AN629,Finished,11,0
+Usual,Paired A,AN639,Finished,11,0
+Usual,Legend,AN629,In progress,0,11
+Easy,Lower A,K237A,In progress,11,0
+Easy,Lower A,AN846,Finished,11,0
+Usual,Upper A,AN841,Finished,11,0
+Hard,Paired A,AN929,Finished,11,0
+Easy,Lower A,AN852,Finished,11,0
+Hard,Lower A,AN847,Finished,27,0
+Hard,Lower A,AN852,Finished,11,0
+Easy,Lower A,AN642,Started,11,0
+Usual,Warning,AN838,Finished,0,0
+Easy,Lower A,AN361,Finished,12,0
+Usual,Paired A,AN361,Finished,11,0
+Usual,Upper A,AN929,Finished,11,0
+Hard,Lower A,AN361,Finished,11,0
+Usual,Upper A,AN836,Finished,11,0
+Easy,Lower A,AN838,Finished,12,0
+Easy,Lower A,AN839,Finished,12,0
+Usual,Upper A,AN836,Finished,11,0
+Usual,Paired A,AN851,Finished,11,0
+Hard,Lower A,AN636,Finished,11,0
+Usual,Upper A,AN836,Finished,11,0
+Hard,Upper A,AN842,Finished,11,0
+Easy,Lower A,AN635,Finished,11,0
+Easy,Lower A,AN925,Finished,11,0
+Easy,Lower A,AN924,Finished,10,0
+Easy,Lower A,AN930,Finished,11,0
+Easy,Lower A,AN924,Finished,10,0
+Hard,Lower A,AN842,Finished,12,0
+Easy,Lower A,AN851,Finished,10,0
+Easy,Lower A,AN929,Finished,10,0
+Easy,Lower A,AN922,Finished,10,0
+Easy,Lower A,AN930,Finished,10,0
+Easy,Lower A,AN928,Finished,10,0
+Easy,Lower A,AN364,Finished,10,0
+Easy,Lower A,AN841,Finished,10,0
+Hard,Lower A,AN835,Finished,10,0
+Usual,Paired A,AN629,Finished,10,0
+Easy,Lower A,AN361,In progress,10,0
+Easy,Lower A,AN844,Finished,20,0
+Easy,Lower A,AN629,In progress,10,0
+Usual,Paired A,AN927,Finished,10,0
+Easy,Lower A,AN642,Finished,10,0
+Usual,Upper A,AN639,Finished,10,0
+Usual,Legend,AN852,Finished,0,10
+Hard,Lower A,K251A,Finished,12,0
+Hard,Lower A,AN852,Suspend,10,0
+Easy,Lower A,AN846,Finished,10,0
+Usual,Legend,AN841,In progress,0,12
+Usual,Upper A,AN851,Started,10,0
+Hard,Lower A,AN638,Finished,16,0
+Easy,Lower A,AN635,Finished,10,0
+Easy,Lower A,AN847,Finished,10,0
+Easy,Lower A,AN837,Finished,10,0
+Easy,Lower A,AN851,Finished,18,0
+Hard,Lower A,AN922,Finished,11,0
+Easy,Lower A,AN836,Finished,10,0
+Easy,Lower A,AN637,Finished,10,0
+Easy,Lower A,AN852,Finished,10,0
+Easy,Lower A,AN630,Finished,10,0
+Easy,Lower A,AN845,Finished,10,0
+Usual,Upper A,AN636,Finished,10,0
+Usual,Upper A,AN835,Finished,10,0
+Hard,Paired A,AN845,Finished,11,0
+Usual,Legend,AN855,Finished,0,10
+Usual,Upper A,S586A,Finished,10,0
+Easy,Lower A,AN848,Finished,10,0
+Hard,Lower A,AN835,Finished,10,0
+Usual,Upper A,AN922,Finished,10,0
+Usual,Paired A,AN364,Finished,10,0
+Easy,Lower A,AN845,Finished,10,0
+Usual,Upper A,AN921,Finished,10,0
+Usual,Paired A,AN837,Finished,10,0
+Hard,Lower A,AN848,Finished,9,0
+Usual,Repeat Legend,AN855,Finished,0,10
+Easy,Lower A,S552A,Finished,9,0
+Easy,Lower A,AN928,In progress,9,0
+Easy,Lower A,AN839,Finished,9,0
+Usual,Upper A,AN921,Finished,9,0
+Easy,Lower A,AN847,In progress,9,0
+Usual,Paired A,AN853,Finished,9,0
+Easy,Lower A,AN361,Finished,9,0
+Usual,Paired A,AN849,Finished,18,0
+Easy,Lower A,AN849,Finished,9,0
+Easy,Lower A,AN928,Finished,9,0
+Usual,Paired A,AN928,Finished,9,0
+Easy,Lower A,AN928,Finished,9,0
+Easy,Lower A,AN837,Finished,9,0
+Easy,Lower A,AN847,Finished,9,0
+Easy,Lower A,AN927,Finished,20,0
+Easy,Lower A,AN636,Finished,9,0
+Easy,Lower A,AN928,Finished,9,0
+Easy,Lower A,AN629,Finished,9,0
+Easy,Lower A,AN629,Finished,9,0
+Easy,Lower A,AN844,Finished,9,0
+Easy,Lower A,AN636,Finished,9,0
+Easy,Lower A,AN361,Finished,9,0
+Easy,Lower A,AN638,Finished,9,0
+Easy,Lower A,AN639,Finished,10,0
+Easy,Lower A,AN928,Finished,9,0
+Easy,Lower A,AN361,Finished,9,0
+Usual,Upper A,AN849,Finished,9,0
+Easy,Lower A,AN922,Finished,9,0
+Easy,Lower A,AN842,Finished,9,0
+Usual,Legend,AN841,Kickback,0,10
+Usual,Paired A,S560A,Finished,9,0
+Usual,Upper A,AN639,Finished,9,0
+Easy,Lower A,AN841,Finished,9,0
+Easy,Lower A,AN844,Finished,9,0
+Usual,Legend,AN928,Finished,0,7
+Easy,Lower A,S306A,Finished,9,0
+Easy,Lower A,AN854,Finished,16,0
+Usual,Warning,AN635,Finished,1,0
+Easy,Lower A,AN929,Finished,14,0
+Easy,Lower A,AN835,Finished,9,0
+Easy,Lower A,AN929,Finished,17,0
+Easy,Lower A,AN629,Finished,10,0
+Easy,Lower A,AN635,Finished,9,0
+Easy,Lower A,AN639,Finished,9,0
+Easy,Lower A,AN842,Finished,9,0
+Easy,Lower A,AN842,Finished,10,0
+Easy,Lower A,AN636,Finished,9,0
+Easy,Lower A,AN847,Finished,11,0
+Easy,Lower A,AN928,Finished,9,0
+Hard,Lower A,AN924,Finished,9,0
+Easy,Lower A,AN635,Finished,9,0
+Easy,Lower A,AN929,Finished,9,0
+Usual,Upper A,AN843,Finished,9,0
+Easy,Lower A,AN846,Finished,15,0
+Easy,Lower A,AN630,Finished,10,0
+Easy,Lower A,AN636,Finished,9,0
+Easy,Lower A,AN847,Finished,13,0
+Usual,Paired A,AN844,Finished,9,0
+Easy,Lower A,AN924,Finished,9,0
+Usual,Upper A,AN642,Started,8,0
+Easy,Lower A,AN922,Finished,8,0
+Easy,Lower A,AN929,Finished,8,0
+Easy,Lower A,AN836,Finished,8,0
+Easy,Lower A,AN924,Finished,12,0
+Usual,Paired A,AN629,Finished,8,0
+Easy,Lower A,AN836,Finished,8,0
+Easy,Lower A,AN927,Finished,8,0
+Easy,Lower A,AN929,Finished,8,0
+Easy,Lower A,AN637,Finished,8,0
+Easy,Lower A,AN841,Finished,8,0
+Easy,Lower A,AN927,Finished,8,0
+Easy,Lower A,AN924,Finished,8,0
+Easy,Lower A,AN842,Finished,8,0
+Hard,Lower A,AN638,Finished,9,0
+Easy,Lower A,AN845,In progress,8,0
+Easy,Lower A,AN921,Finished,8,0
+Easy,Lower A,AN837,Finished,8,0
+Easy,Lower A,AN922,In progress,9,0
+Usual,Paired A,AN930,Finished,8,0
+Usual,Upper A,AN928,Started,8,0
+Hard,Lower A,AN630,Finished,8,0
+Easy,Lower A,AN364,Finished,12,0
+Easy,Lower A,AN847,Finished,8,0
+Usual,Paired A,AN852,Finished,8,0
+Easy,Lower A,AN924,Finished,8,0
+Easy,Lower A,AN836,Finished,8,0
+Easy,Lower A,AN926,Finished,8,0
+Easy,Lower A,AN636,Finished,13,0
+Easy,Lower A,AN855,Finished,8,0
+Usual,Upper A,AN852,Finished,8,0
+Usual,Legend,AN838,Finished,0,8
+Easy,Lower A,S625A,Finished,8,0
+Usual,Repeat Legend,AN924,Finished,0,11
+Easy,Lower A,K215A,Finished,8,0
+Easy,Lower A,AN637,In progress,8,0
+Usual,Legend,AN838,Finished,0,8
+Easy,Lower A,S493A,Finished,9,0
+Usual,Paired A,AN842,Finished,8,0
+Hard,Lower A,AN845,Finished,8,0
+Usual,Repeat Legend,AN635,Finished,0,8
+Easy,Lower A,AN852,Finished,8,0
+Easy,Lower A,AN837,Finished,8,0
+Easy,Lower A,AN841,Finished,8,0
+Easy,Lower A,AN927,Finished,8,0
+Easy,Lower A,AN835,Finished,8,0
+Easy,Lower A,AN848,Finished,8,0
+Easy,Lower A,AN855,Finished,9,0
+Hard,Lower A,AN927,Finished,12,0
+Easy,Lower A,AN855,Finished,8,0
+Easy,Lower A,AN835,Finished,8,0
+Easy,Lower A,AN638,Finished,8,0
+Easy,Lower A,AN926,Finished,8,0
+Easy,Lower A,AN853,Finished,12,0
+Easy,Lower A,AN838,Finished,8,0
+Easy,Lower A,AN845,Finished,8,0
+Easy,Lower A,AN847,Finished,8,0
+Usual,Upper A,AN364,Finished,8,0
+Usual,Paired A,AN841,Finished,8,0
+Usual,Paired A,AN638,Finished,8,0
+Usual,Upper A,AN629,Finished,9,0
+Easy,Warning,AN930,In progress,0,1
+Usual,Upper A,AN836,Finished,8,0
+Usual,Upper A,AN921,In progress,8,0
+Usual,Upper A,AN835,Finished,8,0
+Usual,Upper A,AN638,Finished,9,0
+Usual,Paired A,AN924,Finished,8,0
+Usual,Upper A,AN922,Finished,8,0
+Easy,Lower A,AN854,Finished,8,0
+Usual,Upper A,AN924,Finished,8,0
+Easy,Lower A,AN929,Finished,8,0
+Usual,Paired A,AN928,Finished,8,0
+Usual,Paired A,AN855,Finished,8,0
+Easy,Lower A,AN855,Finished,8,0
+Easy,Lower A,AN855,Finished,8,0
+Usual,Upper A,AN855,Finished,8,0
+Usual,Paired A,AN839,Finished,8,0
+Usual,Paired A,AN629,Finished,8,0
+Hard,Paired A,AN629,Finished,8,0
+Usual,Paired A,AN845,Finished,8,0
+Usual,Legend,AN854,Finished,0,9
+Easy,Lower A,K282A,Kickback,8,0
+Hard,Paired A,AN838,Finished,8,0
+Easy,Lower A,AN638,Finished,8,0
+Easy,Lower A,AN925,Finished,7,0
+Hard,Paired A,AN924,Finished,7,0
+Hard,Paired A,AN849,Finished,7,0
+Usual,Upper A,AN849,Finished,7,0
+Easy,Lower A,AN629,Finished,7,0
+Usual,Paired A,AN636,Finished,7,0
+Usual,Repeat Legend,AN636,Finished,0,8
+Usual,Upper A,S592A,Finished,7,0
+Usual,Upper A,AN629,Finished,7,0
+Easy,Lower A,AN629,Finished,7,0
+Hard,Paired A,AN629,Finished,7,0
+Usual,Paired A,AN635,Finished,8,0
+Easy,Lower A,AN836,Finished,7,0
+Usual,Paired A,AN854,Finished,7,0
+Usual,Paired A,AN361,Finished,7,0
+Usual,Legend,AN847,Finished,0,7
+Easy,Lower A,S467A,In progress,7,0
+Hard,Lower A,AN361,Finished,7,0
+Usual,Upper A,AN839,Finished,7,0
+Easy,Lower A,AN849,In progress,7,0
+Usual,Legend,AN923,Finished,0,7
+Usual,Upper A,K929A,Finished,7,0
+Easy,Lower A,AN642,Finished,7,0
+Usual,Paired A,AN364,Finished,7,0
+Usual,Paired A,AN854,Finished,7,0
+Easy,Lower A,AN364,Finished,7,0
+Usual,Upper A,AN843,Finished,7,0
+Usual,Paired A,AN853,In progress,7,0
+Usual,Paired A,AN364,Finished,7,0
+Easy,Lower A,AN637,Finished,7,0
+Usual,Paired A,AN924,Finished,7,0
+Usual,Upper A,AN364,Finished,7,0
+Usual,Paired A,AN638,Finished,7,0
+Easy,Lower A,AN921,Finished,7,0
+Easy,Lower A,AN635,Finished,7,0
+Easy,Lower A,AN928,Finished,7,0
+Easy,Lower A,AN841,Finished,7,0
+Easy,Lower A,AN848,Finished,7,0
+Usual,Paired A,AN847,Finished,7,0
+Easy,Lower A,AN642,Finished,10,0
+Easy,Lower A,AN927,Finished,10,0
+Easy,Lower A,AN851,Finished,8,0
+Easy,Lower A,AN837,Finished,8,0
+Easy,Lower A,AN836,Finished,7,0
+Easy,Lower A,AN840,Finished,7,0
+Easy,Lower A,AN837,Finished,8,0
+Easy,Lower A,AN844,Finished,7,0
+Easy,Lower A,AN854,Finished,7,0
+Easy,Lower A,AN841,Finished,7,0
+Usual,Paired A,AN841,Finished,7,0
+Usual,Paired A,AN638,Finished,7,0
+Easy,Lower A,AN928,Finished,7,0
+Easy,Lower A,AN847,Finished,7,0
+Easy,Lower A,AN927,Finished,7,0
+Easy,Lower A,AN841,Finished,7,0
+Easy,Lower A,AN638,Finished,7,0
+Easy,Lower A,AN853,Finished,7,0
+Usual,Paired A,AN840,Finished,7,0
+Usual,Paired A,AN364,Finished,7,0
+Easy,Lower A,AN854,Finished,8,0
+Easy,Lower A,AN835,Finished,8,0
+Usual,Upper A,AN922,Finished,7,0
+Usual,Legend,AN840,Finished,0,8
+Usual,Legend,K214A,Finished,0,8
+Usual,Repeat Legend,S552A,Finished,0,8
+Easy,Lower A,K926A,Finished,7,0
+Usual,Legend,AN925,Finished,0,8
+Usual,Legend,K298A,Finished,0,7
+Easy,Lower A,K248A,Finished,7,0
+Usual,Legend,AN364,Finished,0,8
+Usual,Upper A,AN642,Finished,7,0
+Usual,Paired A,AN845,Finished,8,0
+Easy,Lower A,AN630,Finished,7,0
+Usual,Repeat Legend,AN630,Finished,0,9
+Usual,Repeat Legend,K298A,Finished,0,8
+Usual,Legend,S307A,Finished,0,11
+Easy,Lower B,AN841,Suspend,7,0
+Easy,Lower A,K919A,In progress,7,0
+Usual,Legend,AN923,Finished,0,7
+Easy,Lower A,S512A,In progress,7,0
+Easy,Lower A,AN629,Finished,7,0
+Easy,Lower B,AN927,Started,7,0
+Easy,Lower B,K919A,Started,7,0
+Usual,Legend,K934A,Kickback,0,8
+Easy,Lower A,S552A,Finished,8,0
+Usual,Paired A,AN844,Finished,7,0
+Easy,Lower A,AN847,Finished,7,0
+Usual,Upper A,AN854,In progress,7,0
+Easy,Lower A,AN923,Finished,7,0
+Easy,Lower A,AN642,Finished,7,0
+Easy,Lower A,AN925,Finished,12,0
+Easy,Lower A,AN924,Finished,7,0
+Usual,Paired A,AN635,Finished,7,0
+Easy,Lower A,AN847,Finished,8,0
+Easy,Lower A,AN639,Finished,10,0
+Easy,Lower A,AN637,Finished,8,0
+Easy,Lower A,AN929,Finished,7,0
+Easy,Lower A,AN847,Finished,7,0
+Easy,Lower A,AN926,Finished,8,0
+Easy,Lower A,AN361,Finished,7,0
+Easy,Lower A,AN636,Finished,7,0
+Easy,Lower A,AN921,In progress,7,0
+Easy,Lower A,AN923,Finished,7,0
+Easy,Lower A,AN636,Finished,7,0
+Easy,Lower A,AN635,Finished,7,0
+Easy,Lower A,AN636,Finished,7,0
+Easy,Lower A,AN922,Finished,8,0
+Easy,Lower A,AN848,Finished,7,0
+Usual,Upper A,AN848,Finished,10,0
+Usual,Upper A,AN635,Finished,7,0
+Usual,Legend,AN639,Finished,0,9
+Easy,Lower A,S309A,Finished,7,0
+Easy,Lower A,AN840,Finished,7,0
+Easy,Lower A,AN929,Finished,6,0
+Hard,Lower A,AN848,Finished,7,0
+Easy,Lower A,AN638,Finished,6,0
+Easy,Lower A,AN840,Finished,6,0
+Easy,Lower A,AN361,Finished,6,0
+Usual,Legend,AN845,In progress,0,6
+Easy,Lower A,S552A,Finished,6,0
+Usual,Paired A,AN928,Finished,6,0
+Easy,Lower A,AN842,Finished,10,0
+Easy,Lower A,AN852,Finished,6,0
+Easy,Lower A,AN842,In progress,6,0
+Easy,Lower A,AN636,Finished,10,0
+Hard,Lower A,AN926,Finished,6,0
+Hard,Lower A,AN635,Finished,6,0
+Easy,Lower A,AN925,Finished,6,0
+Usual,Paired A,AN847,Finished,6,0
+Easy,Lower A,AN929,Finished,6,0
+Easy,Lower A,AN845,Finished,6,0
+Usual,Legend,AN838,In progress,0,6
+Easy,Lower A,S407A,Finished,6,0
+Usual,Upper A,AN837,Finished,6,0
+Easy,Lower A,AN635,Finished,6,0
+Usual,Upper A,AN842,Finished,6,0
+Hard,Lower A,AN842,Finished,6,0
+Easy,Lower A,AN925,Finished,6,0
+Easy,Lower A,AN639,Finished,6,0
+Usual,Upper A,AN855,Started,6,0
+Easy,Lower A,AN837,Finished,6,0
+Usual,Upper A,AN848,Started,6,0
+Usual,Legend,AN922,Finished,0,10
+Easy,Lower A,AN842,Finished,6,0
+Usual,Legend,AN629,Finished,0,8
+Easy,Lower A,AN926,Finished,23,0
+Easy,Lower A,AN855,Finished,6,0
+Hard,Paired A,AN845,Finished,6,0
+Easy,Lower A,AN642,Finished,9,0
+Usual,Legend,AN844,Finished,0,2
+Easy,Lower A,S558A,Finished,6,0
+Usual,Upper A,AN851,Finished,6,0
+Usual,Upper A,AN846,Finished,6,0
+Usual,Legend,AN924,Finished,0,8
+Easy,Lower A,S468A,Finished,8,0
+Easy,Lower A,AN361,Finished,7,0
+Easy,Lower A,AN921,Finished,6,0
+Usual,Legend,AN638,Finished,0,6
+Usual,Legend,S537A,Finished,0,6
+Usual,Legend,S319A,Finished,0,6
+Usual,Upper A,AN846,Finished,6,0
+Usual,Upper A,AN361,Finished,6,0
+Easy,Lower A,AN849,In progress,6,0
+Easy,Lower A,AN839,Finished,6,0
+Easy,Lower B,AN842,In progress,6,0
+Usual,Legend,K971A,Kickback,0,7
+Usual,Legend,AN835,Finished,0,6
+Usual,Upper A,S403A,In progress,6,0
+Usual,Upper A,AN835,Finished,6,0
+Easy,Lower A,AN848,In progress,6,0
+Usual,Legend,AN835,Finished,0,6
+Easy,Lower B,S548A,In progress,6,0
+Usual,Upper A,K934A,Finished,6,0
+Easy,Lower A,AN361,Finished,14,0
+Easy,Lower B,AN847,Started,6,0
+Easy,Lower A,K913A,In progress,6,0
+Easy,Lower A,AN642,In progress,6,0
+Usual,Legend,AN638,Kickback,0,6
+Usual,Repeat Legend,AN844,Finished,0,7
+Hard,Legend,S590A,Finished,0,6
+Usual,Legend,AN840,Finished,0,6
+Usual,Legend,S513A,Finished,0,6
+Easy,Lower A,S526A,Finished,6,0
+Easy,Lower B,AN855,Started,6,0
+Hard,Upper A,K924A,Finished,6,0
+Usual,Upper A,AN635,Finished,6,0
+Easy,Lower A,AN926,Finished,6,0
+Easy,Lower A,AN630,In progress,6,0
+Easy,Lower A,AN637,Finished,6,0
+Usual,Legend,AN637,Finished,0,6
+Usual,Legend,K214A,Finished,0,6
+Easy,Lower A,K298A,In progress,6,0
+Usual,Legend,AN841,Finished,0,6
+Easy,Lower A,K274A,Finished,6,0
+Usual,Legend,AN848,Finished,0,6
+Easy,Lower A,K296A,Finished,6,0
+Usual,Legend,AN852,Finished,0,6
+Usual,Upper A,K247A,Finished,6,0
+Usual,Paired A,AN361,Finished,6,0
+Easy,Lower A,AN841,Finished,6,0
+Easy,Lower A,AN848,Finished,6,0
+Easy,Lower A,AN926,Finished,9,0
+Easy,Lower A,AN836,Finished,6,0
+Easy,Lower A,AN843,Finished,6,0
+Easy,Lower A,AN841,Finished,6,0
+Easy,Lower A,AN364,Finished,6,0
+Hard,Lower A,AN636,Finished,16,0
+Easy,Lower A,AN836,Finished,6,0
+Easy,Lower A,AN921,Finished,9,0
+Easy,Lower A,AN848,Finished,6,0
+Hard,Lower A,AN838,Finished,6,0
+Usual,Upper A,AN845,Finished,6,0
+Easy,Lower A,AN927,Finished,6,0
+Easy,Lower A,AN848,Finished,7,0
+Hard,Lower A,AN853,Finished,7,0
+Easy,Lower A,AN855,Finished,6,0
+Easy,Lower A,AN642,Finished,6,0
+Easy,Lower A,AN849,Finished,6,0
+Hard,Lower A,AN843,Finished,7,0
+Easy,Lower A,AN846,Finished,6,0
+Easy,Lower A,AN629,Finished,6,0
+Usual,Upper A,AN843,Finished,6,0
+Easy,Lower A,AN853,Finished,6,0
+Easy,Lower A,AN855,Finished,6,0
+Easy,Lower A,AN836,Finished,6,0
+Usual,Legend,AN364,Finished,0,6
+Usual,Upper A,S577A,Finished,6,0
+Easy,Lower A,AN929,Finished,6,0
+Usual,Upper A,AN639,Finished,6,0
+Easy,Lower A,AN364,Finished,6,0
+Usual,Upper A,AN836,Finished,6,0
+Easy,Lower A,AN851,Finished,6,0
+Usual,Paired A,AN845,Finished,6,0
+Easy,Lower A,AN839,Finished,6,0
+Usual,Upper A,AN848,Finished,6,0
+Usual,Upper A,AN638,Finished,6,0
+Usual,Upper A,AN361,Finished,6,0
+Usual,Paired A,AN929,Finished,6,0
+Usual,Paired A,AN927,In progress,6,0
+Usual,Upper A,AN846,In progress,6,0
+Easy,Lower A,AN846,Finished,6,0
+Easy,Lower A,AN629,Finished,6,0
+Usual,Paired A,AN839,Finished,6,0
+Usual,Upper A,AN364,Finished,6,0
+Usual,Legend,AN922,Finished,0,7
+Usual,Paired A,AN835,Finished,6,0
+Usual,Upper A,AN629,Finished,6,0
+Easy,Lower A,AN921,Finished,6,0
+Usual,Paired A,AN642,Finished,6,0
+Easy,Lower A,AN841,Finished,6,0
+Usual,Paired A,AN851,Finished,6,0
+Easy,Lower A,AN842,Finished,6,0
+Usual,Upper A,AN842,Finished,6,0
+Usual,Paired A,AN361,Finished,6,0
+Easy,Lower A,AN928,Finished,6,0
+Usual,Paired A,AN838,Finished,6,0
+Easy,Lower A,AN853,Finished,6,0
+Usual,Upper A,AN844,Finished,6,0
+Easy,Lower A,AN838,Finished,6,0
+Easy,Lower A,AN364,Finished,6,0
+Easy,Lower A,AN842,Finished,6,0
+Usual,Upper A,AN848,Finished,6,0
+Usual,Paired A,AN842,Finished,6,0
+Usual,Legend,AN844,Finished,0,7
+Usual,Upper A,K224A,Finished,6,0
+Usual,Upper A,AN630,Finished,6,0
+Usual,Upper A,AN637,Finished,6,0
+Usual,Paired A,AN852,Finished,6,0
+Usual,Paired A,AN837,Finished,6,0
+Usual,Upper A,AN361,Finished,6,0
+Usual,Upper A,AN638,Finished,6,0
+Usual,Upper A,AN922,Finished,6,0
+Easy,Lower A,AN853,In progress,6,0
+Usual,Paired A,AN922,Finished,6,0
+Usual,Paired A,AN639,Finished,5,0
+Easy,Lower A,AN629,Finished,5,0
+Usual,Upper A,AN629,Finished,5,0
+Usual,Paired A,AN921,Finished,5,0
+Hard,Lower A,AN844,Finished,5,0
+Usual,Paired A,AN849,Finished,5,0
+Usual,Paired A,AN849,Finished,5,0
+Easy,Lower A,AN854,Finished,5,0
+Easy,Lower A,AN849,Finished,5,0
+Easy,Lower A,AN848,Started,5,0
+Usual,Paired A,AN838,Finished,5,0
+Usual,Legend,AN629,Finished,0,7
+Usual,Paired A,S512A,In progress,5,0
+Easy,Lower A,AN639,Finished,5,0
+Usual,Paired A,AN639,Finished,5,0
+Hard,Lower A,AN852,Finished,5,0
+Usual,Paired A,AN635,Finished,7,0
+Usual,Paired A,AN838,Finished,5,0
+Usual,Upper A,AN361,Finished,5,0
+Easy,Lower A,AN855,In progress,5,0
+Usual,Paired A,AN925,Finished,5,0
+Usual,Upper A,AN629,Finished,5,0
+Usual,Paired A,AN638,Finished,5,0
+Usual,Upper A,AN636,Finished,5,0
+Usual,Upper A,AN843,Finished,5,0
+Usual,Paired A,AN839,Finished,5,0
+Usual,Paired A,AN855,Finished,5,0
+Usual,Upper A,AN835,Finished,5,0
+Easy,Lower A,AN838,Finished,6,0
+Usual,Legend,AN361,Finished,0,5
+Usual,Paired A,S318A,Finished,5,0
+Usual,Paired A,AN839,Finished,3,0
+Easy,Lower A,AN853,In progress,5,0
+Easy,Lower A,AN923,Finished,5,0
+Easy,Lower A,AN844,Finished,5,0
+Usual,Paired A,AN855,Finished,5,0
+Easy,Lower A,AN839,Finished,5,0
+Usual,Paired A,AN841,Finished,7,0
+Usual,Upper A,AN361,Finished,5,0
+Easy,Lower A,AN838,Finished,5,0
+Usual,Paired A,AN629,Finished,5,0
+Usual,Upper A,AN629,Finished,5,0
+Usual,Paired A,AN852,Finished,5,0
+Usual,Paired A,AN837,Finished,5,0
+Usual,Upper A,AN837,Finished,5,0
+Hard,Paired A,AN361,Finished,5,0
+Usual,Legend,AN837,Finished,0,6
+Easy,Lower A,S568A,Finished,5,0
+Usual,Upper A,AN841,Finished,5,0
+Usual,Upper A,AN638,In progress,5,0
+Easy,Lower A,AN629,Finished,5,0
+Hard,Lower A,AN840,Finished,5,0
+Usual,Paired A,AN930,Finished,5,0
+Easy,Lower A,AN929,In progress,5,0
+Hard,Lower A,AN922,Finished,5,0
+Usual,Upper A,AN837,Finished,5,0
+Usual,Legend,AN922,Finished,0,5
+Easy,Lower A,K238A,Finished,6,0
+Easy,Lower A,AN855,Finished,5,0
+Usual,Upper A,AN842,Started,5,0
+Usual,Upper A,AN629,Finished,5,0
+Usual,Paired A,AN361,Finished,5,0
+Usual,Upper A,AN853,Finished,5,0
+Usual,Paired A,AN855,Finished,9,0
+Hard,Paired A,AN927,Finished,5,0
+Usual,Paired A,AN637,Finished,5,0
+Usual,Upper A,AN845,Finished,5,0
+Usual,Upper A,AN841,Finished,5,0
+Usual,Upper A,AN639,In progress,5,0
+Easy,Lower A,AN642,Finished,5,0
+Easy,Lower A,AN927,Finished,5,0
+Usual,Paired A,AN849,Finished,9,0
+Usual,Upper A,AN927,Finished,5,0
+Usual,Upper A,AN845,Finished,5,0
+Usual,Paired A,AN838,Finished,5,0
+Easy,Lower A,AN855,Finished,5,0
+Usual,Paired A,AN921,Finished,5,0
+Usual,Upper A,AN922,Finished,5,0
+Easy,Lower A,AN636,Finished,5,0
+Usual,Paired A,AN845,Finished,5,0
+Easy,Lower A,AN855,Finished,5,0
+Easy,Lower A,AN836,Finished,5,0
+Easy,Lower A,AN639,Finished,5,0
+Easy,Lower A,AN854,Finished,5,0
+Hard,Lower A,AN929,Finished,7,0
+Easy,Lower A,AN851,Finished,6,0
+Easy,Lower A,AN844,Finished,6,0
+Hard,Lower A,AN630,Finished,12,0
+Easy,Lower A,AN638,Finished,5,0
+Easy,Lower A,AN838,Finished,5,0
+Hard,Lower A,AN843,Finished,20,0
+Easy,Lower A,AN841,Finished,5,0
+Easy,Lower A,AN842,Finished,5,0
+Hard,Lower A,AN854,Finished,5,0
+Easy,Lower A,AN930,Finished,5,0
+Easy,Lower A,AN843,Finished,7,0
+Easy,Lower A,AN927,Finished,5,0
+Easy,Lower A,AN855,Finished,5,0
+Easy,Lower A,AN522,Finished,5,0
+Easy,Lower A,AN854,In progress,5,0
+Easy,Lower A,AN924,Finished,5,0
+Easy,Lower A,AN924,Finished,5,0
+Easy,Lower A,AN843,Finished,5,0
+Easy,Lower A,AN929,Finished,5,0
+Usual,Upper A,AN846,Finished,5,0
+Easy,Lower A,AN923,Finished,5,0
+Easy,Lower A,AN840,Finished,18,0
+Usual,Paired A,AN629,Finished,5,0
+Easy,Lower A,AN845,Finished,6,0
+Usual,Paired A,AN844,Finished,5,0
+Easy,Lower A,AN636,Finished,5,0
+Easy,Lower A,AN845,Finished,5,0
+Easy,Lower A,AN844,Finished,5,0
+Easy,Lower A,AN844,Finished,6,0
+Easy,Lower A,AN629,Finished,5,0
+Easy,Lower A,AN924,Finished,5,0
+Easy,Lower A,AN836,Finished,5,0
+Easy,Lower A,AN855,Finished,5,0
+Easy,Lower A,AN839,Finished,5,0
+Usual,Paired A,AN849,Finished,5,0
+Usual,Legend,AN841,Kickback,0,5
+Usual,Upper A,S323A,Finished,5,0
+Usual,Legend,AN848,Finished,0,6
+Easy,Lower A,S508A,In progress,5,0
+Usual,Legend,AN642,Finished,0,5
+Usual,Legend,K915A,Finished,0,5
+Usual,Legend,K284A,Finished,0,5
+Usual,Paired A,K298A,Finished,5,0
+Easy,Lower A,AN642,Finished,5,0
+Easy,Lower A,AN635,Finished,5,0
+Easy,Lower B,AN930,In progress,5,0
+Easy,Lower A,K920A,Finished,14,0
+Usual,Legend,AN846,Finished,0,5
+Usual,Legend,S560A,Finished,0,7
+Usual,Legend,AN846,Finished,0,5
+Usual,Legend,S506A,Finished,0,9
+Usual,Legend,S625A,Finished,0,5
+Usual,Upper A,S613A,Finished,5,0
+Usual,Legend,AN849,Finished,0,5
+Usual,Legend,S613A,Finished,0,7
+Usual,Legend,S493A,Finished,0,6
+Usual,Upper A,S513A,Finished,5,0
+Usual,Repeat Legend,AN636,Suspend,0,6
+Easy,Lower A,K933A,In progress,5,0
+Usual,Upper A,AN837,In progress,5,0
+Usual,Legend,AN853,Finished,0,6
+Usual,Legend,S309A,Finished,0,5
+Usual,Upper A,S622A,Finished,5,0
+Usual,Legend,AN642,Finished,0,6
+Usual,Paired A,S479A,Finished,5,0
+Easy,Lower B,AN637,In progress,5,0
+Easy,Lower A,K975A,Finished,35,0
+Usual,Legend,AN851,Finished,0,6
+Easy,Lower A,S568A,Finished,5,0
+Usual,Legend,AN924,Finished,0,7
+Easy,Lower B,AN361,In progress,5,0
+Usual,Legend,K931A,Finished,0,5
+Easy,Lower B,S552A,In progress,5,0
+Easy,Lower A,K926A,In progress,5,0
+Usual,Legend,AN837,Kickback,0,5
+Usual,Legend,S611A,Finished,0,5
+Usual,Upper A,K918A,Finished,5,0
+Usual,Legend,AN843,Finished,0,5
+Usual,Upper A,AN925,Finished,5,0
+Easy,Lower A,AN629,Finished,5,0
+Easy,Lower A,AN364,Finished,5,0
+Usual,Legend,AN847,Finished,0,5
+Usual,Legend,S596A,Finished,0,5
+Easy,Lower A,K281A,Finished,5,0
+Usual,Legend,AN837,Finished,0,5
+Usual,Legend,AN925,Finished,0,7
+Hard,Legend,K921A,Finished,0,6
+Usual,Upper A,S428A,Finished,5,0
+Easy,Lower A,AN855,Finished,5,0
+Usual,Legend,AN844,Finished,0,6
+Hard,Legend,K284A,Finished,0,6
+Usual,Legend,S532A,In progress,0,6
+Usual,Legend,K931A,Finished,0,2
+Usual,Legend,S431A,Finished,0,5
+Usual,Legend,S423A,Finished,0,6
+Usual,Legend,S529A,Finished,0,5
+Easy,Lower A,AN929,Finished,5,0
+Usual,Legend,AN843,Finished,0,5
+Easy,Warning,K915A,Finished,0,0
+Easy,Lower A,AN835,In progress,5,0
+Easy,Lower A,AN639,Finished,5,0
+Usual,Upper A,AN922,Finished,5,0
+Easy,Lower A,AN635,Finished,13,0
+Easy,Lower A,AN924,Finished,7,0
+Easy,Lower A,AN636,Finished,5,0
+Usual,Upper A,AN853,Finished,5,0
+Easy,Lower A,AN855,Finished,6,0
+Easy,Lower A,AN930,Finished,5,0
+Easy,Lower A,AN835,Finished,6,0
+Easy,Lower A,AN638,Finished,6,0
+Usual,Paired A,AN844,Finished,5,0
+Easy,Lower A,AN839,Finished,5,0
+Easy,Lower A,AN835,Finished,5,0
+Hard,Lower A,AN837,Finished,5,0
+Usual,Legend,AN835,Finished,0,2
+Easy,Lower A,K270A,Finished,5,0
+Easy,Lower A,AN853,Finished,5,0
+Easy,Lower A,AN927,Finished,5,0
+Usual,Legend,AN364,Finished,0,3
+Easy,Lower A,S516A,Finished,6,0
+Easy,Lower A,AN638,Finished,5,0
+Easy,Lower A,AN852,Finished,5,0
+Easy,Lower A,AN853,Finished,5,0
+Usual,Paired A,AN835,Finished,7,0
+Easy,Lower A,AN855,Finished,5,0
+Easy,Lower A,AN929,Finished,8,0
+Usual,Upper A,AN854,Finished,5,0
+Easy,Lower A,AN361,Finished,5,0
+Usual,Upper A,AN840,Finished,5,0
+Easy,Lower A,AN855,Finished,5,0
+Usual,Paired A,AN840,Finished,5,0
+Easy,Lower A,AN844,Finished,5,0
+Usual,Upper A,AN840,Finished,5,0
+Easy,Lower A,AN839,Finished,5,0
+Easy,Lower A,AN522,Finished,5,0
+Easy,Lower A,AN923,Finished,5,0
+Easy,Lower A,AN636,Finished,5,0
+Usual,Legend,AN843,Finished,0,5
+Easy,Lower A,S548A,Finished,5,0
+Easy,Lower A,AN837,Finished,6,0
+Usual,Upper A,AN845,In progress,5,0
+Easy,Lower A,AN922,Finished,11,0
+Usual,Legend,AN361,Finished,0,6
+Usual,Legend,S560A,Finished,0,20
+Easy,Lower A,K294A,Finished,5,0
+Easy,Lower A,AN636,Finished,5,0
+Usual,Paired A,AN639,Finished,5,0
+Usual,Paired A,AN853,Finished,5,0
+Usual,Repeat Legend,AN921,Finished,0,0
+Usual,Upper A,S431A,Finished,5,0
+Easy,Lower A,AN923,Finished,8,0
+Usual,Upper A,AN629,Finished,5,0
+Usual,Upper A,AN853,Finished,5,0
+Easy,Lower A,AN855,In progress,5,0
+Easy,Lower A,AN922,Finished,5,0
+Usual,Upper A,AN840,In progress,5,0
+Usual,Legend,AN843,Finished,0,5
+Easy,Lower A,S626A,Finished,5,0
+Easy,Lower A,AN923,Finished,5,0
+Usual,Paired A,AN844,Finished,5,0
+Usual,Upper A,AN922,Finished,5,0
+Easy,Lower A,AN637,Finished,5,0
+Easy,Lower A,AN636,Finished,7,0
+Easy,Lower A,AN854,Finished,6,0
+Easy,Lower A,AN841,Finished,5,0
+Easy,Lower A,AN929,Finished,5,0
+Easy,Lower A,AN924,Finished,5,0
+Usual,Paired A,AN854,Finished,7,0
+Usual,Upper A,AN361,Finished,7,0
+Usual,Upper A,AN851,In progress,5,0
+Usual,Upper A,AN845,Finished,5,0
+Easy,Lower A,AN843,Finished,5,0
+Easy,Lower A,AN924,Finished,5,0
+Easy,Lower A,AN840,Finished,5,0
+Easy,Lower A,AN837,Finished,12,0
+Usual,Legend,AN629,Finished,0,6
+Easy,Lower A,AN845,Finished,5,0
+Easy,Lower A,AN635,Finished,5,0
+Easy,Lower A,AN638,Finished,5,0
+Easy,Lower A,AN922,Finished,5,0
+Easy,Lower A,AN927,Finished,5,0
+Usual,Legend,AN836,Kickback,0,5
+Easy,Lower A,K933A,Finished,5,0
+Easy,Lower A,AN845,Finished,6,0
+Usual,Upper A,AN855,Finished,5,0
+Easy,Lower A,AN638,Finished,5,0
+Easy,Lower A,AN839,Finished,5,0
+Usual,Legend,AN928,Finished,0,4
+Usual,Legend,K248A,Finished,0,4
+Usual,Legend,S594A,Finished,0,4
+Usual,Upper A,S524A,Finished,4,0
+Easy,Lower A,AN930,Finished,4,0
+Easy,Lower A,AN929,Finished,4,0
+Usual,Paired A,AN845,Finished,4,0
+Usual,Upper A,AN842,In progress,4,0
+Easy,Lower A,AN635,Finished,4,0
+Easy,Lower A,AN927,Finished,6,0
+Easy,Lower A,AN847,Finished,4,0
+Easy,Lower A,AN926,Finished,4,0
+Easy,Lower A,AN928,Finished,4,0
+Easy,Lower A,AN928,Finished,4,0
+Hard,Lower A,AN629,Finished,4,0
+Easy,Lower A,AN848,Finished,4,0
+Usual,Paired A,AN924,Finished,4,0
+Usual,Legend,AN845,Finished,0,5
+Easy,Lower A,S486A,Kickback,4,0
+Easy,Lower A,AN842,Finished,4,0
+Easy,Lower A,AN845,Finished,4,0
+Easy,Lower A,AN846,In progress,4,0
+Usual,Repeat Legend,AN854,Finished,0,5
+Easy,Lower A,S568A,Finished,4,0
+Usual,Upper A,AN639,Finished,4,0
+Easy,Lower A,AN838,Finished,4,0
+Usual,Legend,AN922,Finished,0,4
+Usual,Legend,S448A,Kickback,0,4
+Easy,Lower A,AN635,Finished,4,0
+Easy,Lower A,AN836,Finished,4,0
+Easy,Lower A,AN855,Finished,10,0
+Hard,Lower A,AN926,Finished,4,0
+Easy,Lower A,AN851,Finished,4,0
+Usual,Legend,AN629,Finished,0,4
+Hard,Lower A,K913A,Finished,4,0
+Easy,Lower A,AN642,Finished,4,0
+Easy,Lower A,AN844,Finished,4,0
+Easy,Lower A,AN836,Finished,4,0
+Easy,Lower A,AN636,Finished,6,0
+Easy,Lower A,AN637,Finished,4,0
+Usual,Legend,AN925,Finished,0,4
+Easy,Lower A,S514A,Finished,5,0
+Usual,Legend,AN853,Finished,0,4
+Usual,Upper A,AN639,Finished,4,0
+Easy,Lower A,AN847,Finished,6,0
+Easy,Lower A,AN639,Finished,6,0
+Easy,Lower A,AN845,Finished,4,0
+Easy,Lower A,AN843,Finished,4,0
+Hard,Lower A,AN847,Finished,5,0
+Usual,Paired A,AN638,Finished,4,0
+Easy,Lower A,AN836,Finished,4,0
+Easy,Lower A,AN838,Kickback,4,0
+Easy,Lower A,AN844,Finished,4,0
+Easy,Lower A,AN922,Finished,4,0
+Easy,Lower A,AN841,Finished,4,0
+Easy,Lower A,AN844,Finished,4,0
+Easy,Lower A,AN929,Finished,4,0
+Easy,Lower A,AN855,Finished,4,0
+Easy,Lower A,AN636,Finished,4,0
+Easy,Lower A,AN928,Finished,4,0
+Easy,Lower A,AN638,Finished,4,0
+Easy,Lower A,AN927,Finished,4,0
+Usual,Upper A,AN923,Finished,4,0
+Usual,Upper A,AN853,Kickback,4,0
+Usual,Upper A,AN841,Finished,4,0
+Easy,Lower A,AN838,Finished,5,0
+Usual,Legend,AN364,Finished,0,4
+Easy,Lower A,S492A,Finished,4,0
+Easy,Lower A,AN841,Finished,4,0
+Easy,Lower A,AN630,Finished,4,0
+Easy,Lower A,AN629,Finished,4,0
+Usual,Legend,AN636,In progress,0,4
+Easy,Lower A,AN839,Finished,4,0
+Easy,Lower A,AN842,Finished,4,0
+Easy,Lower A,AN841,Finished,4,0
+Easy,Lower A,AN855,Finished,4,0
+Easy,Lower A,AN847,Finished,13,0
+Easy,Lower A,AN637,Finished,8,0
+Easy,Lower A,AN636,Finished,4,0
+Easy,Lower A,AN927,Finished,4,0
+Easy,Lower A,AN848,Finished,4,0
+Easy,Lower A,AN855,Finished,12,0
+Easy,Lower A,AN847,Finished,4,0
+Usual,Upper A,AN842,Finished,4,0
+Usual,Paired A,AN837,Finished,4,0
+Easy,Lower A,AN361,Finished,6,0
+Easy,Lower A,AN637,Finished,4,0
+Usual,Legend,AN841,Finished,0,4
+Easy,Lower A,S440A,Finished,4,0
+Easy,Lower A,AN927,Finished,4,0
+Usual,Upper A,AN635,Finished,4,0
+Easy,Lower A,AN929,Finished,5,0
+Usual,Paired A,AN847,Finished,4,0
+Easy,Lower A,AN849,Finished,4,0
+Easy,Lower A,AN852,Finished,4,0
+Usual,Paired A,AN848,Finished,4,0
+Easy,Lower A,AN364,Finished,7,0
+Easy,Lower A,AN637,Finished,4,0
+Easy,Lower A,AN630,Finished,4,0
+Easy,Lower A,AN853,In progress,4,0
+Easy,Lower A,AN849,Finished,4,0
+Usual,Legend,AN837,Finished,0,6
+Easy,Lower A,S537A,Finished,4,0
+Usual,Paired A,AN638,Finished,4,0
+Easy,Lower A,AN851,Finished,4,0
+Easy,Lower A,AN927,Finished,4,0
+Easy,Lower A,AN629,Finished,4,0
+Easy,Lower A,AN630,In progress,4,0
+Easy,Lower A,AN361,Finished,5,0
+Easy,Lower A,AN929,Finished,4,0
+Easy,Lower A,AN843,Finished,4,0
+Easy,Lower A,AN838,Finished,4,0
+Easy,Lower A,AN852,Finished,4,0
+Easy,Lower A,AN923,Finished,4,0
+Usual,Legend,AN844,Finished,0,4
+Easy,Lower A,AN838,Finished,5,0
+Easy,Lower A,AN855,Finished,4,0
+Easy,Lower A,AN838,Finished,4,0
+Usual,Legend,AN837,Finished,0,4
+Usual,Legend,AN841,Finished,0,4
+Usual,Paired A,AN841,Finished,4,0
+Usual,Legend,AN841,Finished,0,4
+Usual,Upper A,AN925,Finished,4,0
+Usual,Legend,AN930,Finished,0,4
+Usual,Legend,AN842,Finished,0,4
+Usual,Legend,S569A,Kickback,0,4
+Usual,Legend,S594A,Finished,0,4
+Usual,Legend,S622A,Finished,0,6
+Usual,Legend,S487A,Finished,0,6
+Easy,Lower A,S487A,Finished,4,0
+Easy,Lower A,AN841,Finished,4,0
+Easy,Lower A,AN922,Finished,4,0
+Usual,Legend,AN361,Finished,0,4
+Usual,Legend,S457A,Finished,0,4
+Usual,Legend,K264A,Finished,0,4
+Usual,Legend,K265A,In progress,0,7
+Usual,Upper A,S315A,Finished,4,0
+Usual,Legend,AN921,Finished,0,4
+Hard,Lower A,K272A,Finished,6,0
+Usual,Legend,AN838,Finished,0,6
+Easy,Lower A,K251A,In progress,4,0
+Easy,Lower A,AN853,In progress,4,0
+Usual,Legend,AN846,Kickback,0,4
+Usual,Legend,S517A,Finished,0,4
+Usual,Legend,S472A,Finished,0,4
+Usual,Legend,AN844,Finished,0,4
+Easy,Lower A,S440A,Finished,4,0
+Hard,Legend,AN629,Finished,0,6
+Hard,Legend,AN639,Finished,0,5
+Usual,Legend,AN836,Finished,0,4
+Usual,Legend,S566A,In progress,0,4
+Usual,Legend,AN629,Kickback,0,4
+Usual,Legend,S474A,Finished,0,4
+Usual,Legend,S319A,Finished,0,5
+Usual,Legend,S612A,Suspend,0,4
+Usual,Legend,AN629,Finished,0,4
+Usual,Legend,S526A,Finished,0,4
+Usual,Legend,AN924,Finished,0,4
+Usual,Legend,S440A,Finished,0,4
+Easy,Lower A,K971A,Started,4,0
+Easy,Lower A,AN843,Started,4,0
+Usual,Legend,AN843,Finished,0,4
+Easy,Lower A,AN838,In progress,4,0
+Hard,Legend,AN630,Finished,0,4
+Usual,Legend,S495A,Kickback,0,4
+Usual,Legend,S548A,Finished,0,4
+Easy,Lower A,S435A,Finished,4,0
+Usual,Legend,AN642,Finished,0,4
+Usual,Paired A,K264A,Finished,4,0
+Usual,Upper A,AN852,Finished,4,0
+Usual,Legend,AN635,Finished,0,7
+Usual,Legend,AN849,Kickback,0,4
+Hard,Paired A,AN625,Finished,4,0
+Usual,Legend,AN835,Finished,0,4
+Usual,Legend,S303A,Finished,0,4
+Hard,Legend,AN923,Finished,0,4
+Usual,Legend,S532A,Finished,0,6
+Usual,Legend,AN835,Finished,0,4
+Easy,Lower A,S525A,Finished,4,0
+Usual,Upper A,AN928,Finished,4,0
+Usual,Legend,AN286,Finished,0,4
+Usual,Legend,K298A,Finished,0,8
+Usual,Legend,S570A,Finished,0,4
+Usual,Legend,S448A,Finished,0,4
+Easy,Lower A,S594A,Finished,4,0
+Hard,Legend,AN361,Finished,0,4
+Easy,Lower A,AN635,Finished,4,0
+Usual,Legend,AN639,Finished,0,4
+Usual,Upper A,S305A,Finished,4,0
+Usual,Legend,AN854,Finished,0,4
+Usual,Upper A,S618A,Finished,4,0
+Usual,Paired A,AN839,Finished,4,0
+Easy,Lower A,AN925,Finished,4,0
+Usual,Legend,AN851,In progress,0,5
+Usual,Legend,S523A,Finished,0,4
+Easy,Lower A,S506A,Finished,4,0
+Usual,Legend,AN642,Finished,0,4
+Usual,Legend,S577A,Finished,0,5
+Usual,Upper A,S584A,Finished,4,0
+Easy,Lower A,AN840,Finished,4,0
+Easy,Lower A,AN924,In progress,4,0
+Easy,Lower A,AN922,Finished,4,0
+Hard,Paired A,AN855,Finished,4,0
+Usual,Legend,AN635,Finished,0,4
+Usual,Legend,S459A,In progress,0,4
+Usual,Legend,AN838,Finished,0,4
+Easy,Lower A,AN928,Finished,4,0
+Usual,Legend,AN836,Finished,0,4
+Usual,Legend,AN844,Finished,0,4
+Usual,Upper A,S594A,Finished,4,0
+Usual,Legend,AN924,Finished,0,4
+Usual,Legend,S413A,Finished,0,5
+Hard,Legend,K919A,Finished,0,4
+Easy,Lower B,AN855,Finished,4,0
+Usual,Legend,K973A,In progress,0,4
+Usual,Legend,S483A,Finished,0,4
+Usual,Legend,AN361,Started,0,4
+Easy,Lower A,AN638,Finished,4,0
+Usual,Legend,AN629,Finished,0,4
+Usual,Legend,S448A,Finished,0,5
+Easy,Lower B,S594A,In progress,4,0
+Usual,Legend,K921A,Finished,0,4
+Usual,Legend,AN854,Finished,0,4
+Easy,Lower B,S530A,In progress,4,0
+Easy,Lower A,K918A,Finished,4,0
+Hard,Repeat Legend,AN849,Finished,0,5
+Usual,Legend,K236A,In progress,0,4
+Usual,Legend,AN837,Finished,0,6
+Usual,Legend,S468A,Finished,0,4
+Usual,Legend,AN843,Finished,0,4
+Usual,Legend,S459A,Finished,0,4
+Easy,Lower A,AN842,In progress,4,0
+Usual,Legend,AN928,Kickback,0,5
+Usual,Legend,K915A,Kickback,0,4
+Usual,Legend,AN361,Finished,0,4
+Easy,Lower A,AN839,In progress,4,0
+Easy,Lower A,AN847,Finished,4,0
+Easy,Lower A,AN849,Finished,4,0
+Easy,Lower A,AN922,Finished,4,0
+Usual,Legend,AN922,Finished,0,4
+Usual,Paired A,K248A,In progress,7,0
+Usual,Legend,AN642,Finished,0,4
+Usual,Upper A,S461A,Finished,4,0
+Usual,Legend,AN842,In progress,0,4
+Usual,Upper A,K284A,Finished,4,0
+Easy,Lower A,AN838,In progress,4,0
+Easy,Lower A,AN921,Finished,17,0
+Hard,Lower A,AN846,Finished,4,0
+Usual,Legend,AN843,Finished,0,4
+Easy,Lower A,AN842,Finished,4,0
+Usual,Repeat Legend,AN838,Finished,0,4
+Usual,Upper A,S495A,Finished,4,0
+Easy,Lower A,AN286,Finished,4,0
+Usual,Legend,AN925,In progress,0,4
+Usual,Legend,S433A,Finished,0,10
+Easy,Lower A,S533A,Finished,4,0
+Usual,Legend,AN855,Finished,0,4
+Easy,Lower B,K278A,In progress,4,0
+Usual,Legend,K928A,Finished,0,4
+Easy,Lower A,S551A,In progress,4,0
+Usual,Legend,AN851,Finished,0,4
+Usual,Legend,S491A,Finished,0,4
+Usual,Legend,S491A,Finished,0,4
+Easy,Lower A,S618A,In progress,4,0
+Usual,Paired A,AN853,Finished,4,0
+Hard,Legend,AN925,Finished,0,4
+Usual,Legend,AN835,Finished,0,4
+Hard,Legend,S319A,Finished,0,4
+Usual,Legend,S440A,Finished,0,5
+Usual,Legend,S315A,Finished,0,4
+Easy,Lower A,S558A,Finished,4,0
+Usual,Legend,AN639,Finished,0,4
+Easy,Lower A,K247A,Finished,4,0
+Usual,Upper A,AN838,Finished,4,0
+Usual,Legend,AN286,In progress,0,5
+Usual,Upper A,S459A,Finished,4,0
+Easy,Warning,AN286,Finished,2,0
+Easy,Lower A,AN836,Finished,4,0
+Hard,Legend,AN638,Finished,0,5
+Easy,Lower A,K298A,Finished,4,0
+Easy,Lower A,AN635,Finished,4,0
+Usual,Legend,AN851,Finished,0,4
+Usual,Legend,K268A,In progress,0,4
+Easy,Lower A,S461A,Finished,4,0
+Usual,Upper A,AN635,Finished,4,0
+Usual,Legend,AN637,Finished,0,4
+Easy,Lower B,S568A,Finished,4,0
+Usual,Legend,K932A,Finished,0,9
+Easy,Lower A,AN847,Finished,4,0
+Easy,Lower A,AN361,Started,4,0
+Easy,Lower A,AN848,In progress,4,0
+Easy,Lower B,AN923,In progress,4,0
+Usual,Legend,K928A,Finished,0,6
+Easy,Lower A,K278A,In progress,4,0
+Usual,Legend,AN843,Finished,0,4
+Usual,Legend,S440A,Finished,0,4
+Usual,Legend,AN844,Finished,0,4
+Usual,Legend,AN923,Finished,0,4
+Easy,Lower A,S309A,Finished,4,0
+Usual,Legend,AN629,Kickback,0,4
+Hard,Legend,K290A,In progress,0,4
+Usual,Legend,AN846,Finished,0,4
+Easy,Lower A,K294A,Finished,4,0
+Easy,Lower B,AN642,Started,4,0
+Usual,Upper A,K933A,In progress,4,0
+Easy,Lower B,AN851,In progress,4,0
+Usual,Legend,K932A,Finished,0,4
+Easy,Lower A,K971A,Finished,4,0
+Easy,Lower A,AN921,Finished,4,0
+Easy,Lower A,AN843,Finished,4,0
+Easy,Lower A,AN629,Finished,4,0
+Easy,Lower A,AN844,Finished,4,0
+Easy,Lower A,AN853,Finished,4,0
+Hard,Lower A,AN637,In progress,4,0
+Easy,Lower A,AN843,Finished,4,0
+Easy,Lower A,AN838,Finished,4,0
+Easy,Lower A,AN635,Finished,4,0
+Easy,Lower A,AN843,Finished,4,0
+Usual,Paired A,AN922,Finished,4,0
+Easy,Lower A,AN635,Finished,4,0
+Easy,Lower A,AN852,Finished,4,0
+Usual,Upper A,AN854,Finished,4,0
+Usual,Upper A,AN361,Finished,4,0
+Easy,Lower A,AN638,Finished,4,0
+Easy,Lower A,AN927,Finished,6,0
+Easy,Lower A,AN927,Finished,5,0
+Easy,Lower A,AN636,Finished,4,0
+Easy,Lower A,AN629,Finished,5,0
+Easy,Lower A,AN845,Finished,4,0
+Usual,Upper A,AN841,Finished,4,0
+Easy,Lower A,AN855,Finished,4,0
+Hard,Lower A,AN837,Finished,15,0
+Easy,Lower A,AN851,Finished,4,0
+Easy,Lower A,AN855,Finished,4,0
+Easy,Lower A,AN636,Finished,4,0
+Easy,Lower A,AN843,Finished,4,0
+Easy,Lower A,AN922,Finished,4,0
+Easy,Lower A,AN635,Finished,4,0
+Easy,Lower A,AN851,Finished,4,0
+Easy,Lower A,AN855,Finished,5,0
+Usual,Upper A,AN855,Finished,4,0
+Easy,Lower A,AN852,Finished,4,0
+Usual,Upper A,AN855,Finished,4,0
+Easy,Lower A,AN927,Finished,4,0
+Easy,Lower A,AN835,Finished,4,0
+Easy,Lower A,AN848,Finished,4,0
+Easy,Lower A,AN838,Finished,4,0
+Usual,Upper A,AN922,Finished,4,0
+Easy,Lower A,AN849,Finished,4,0
+Hard,Paired A,AN921,Finished,4,0
+Easy,Lower A,AN838,In progress,4,0
+Easy,Lower A,AN854,Finished,5,0
+Easy,Lower A,AN845,Finished,5,0
+Easy,Lower A,AN629,Finished,4,0
+Easy,Lower A,AN848,Finished,6,0
+Easy,Lower A,AN635,Finished,4,0
+Easy,Lower A,AN921,Finished,4,0
+Easy,Lower A,AN637,Finished,4,0
+Easy,Lower A,AN836,Finished,4,0
+Easy,Lower A,AN636,Finished,4,0
+Easy,Lower A,AN851,Finished,4,0
+Easy,Lower A,AN838,Finished,20,0
+Easy,Lower A,AN927,Finished,4,0
+Easy,Lower A,AN629,Finished,4,0
+Easy,Lower A,AN642,Finished,4,0
+Easy,Lower A,AN836,Finished,4,0
+Usual,Upper A,AN855,Finished,4,0
+Usual,Upper A,AN630,Finished,5,0
+Usual,Upper A,AN929,Finished,4,0
+Usual,Legend,AN849,Finished,0,4
+Hard,Legend,S609A,Finished,0,6
+Usual,Paired A,S309A,Finished,4,0
+Usual,Paired A,AN636,Finished,4,0
+Usual,Upper A,AN638,Finished,4,0
+Usual,Paired A,AN638,Finished,4,0
+Usual,Paired A,AN928,Finished,4,0
+Easy,Lower A,AN928,Finished,4,0
+Usual,Paired A,AN638,Finished,4,0
+Usual,Paired A,AN843,Finished,4,0
+Hard,Paired A,AN849,Finished,4,0
+Usual,Legend,AN836,Kickback,0,4
+Usual,Paired A,K918A,In progress,4,0
+Easy,Lower A,AN361,Finished,4,0
+Easy,Lower A,AN630,Finished,4,0
+Easy,Lower A,AN923,Finished,4,0
+Usual,Paired A,AN855,In progress,4,0
+Usual,Paired A,AN923,Finished,4,0
+Usual,Paired A,AN928,Finished,4,0
+Usual,Legend,AN638,Finished,0,5
+Easy,Lower A,S486A,Finished,4,0
+Easy,Lower A,AN630,Finished,4,0
+Usual,Legend,AN849,Finished,0,4
+Usual,Paired A,S413A,Finished,4,0
+Easy,Lower A,AN639,Finished,4,0
+Usual,Paired A,AN639,Finished,21,0
+Usual,Upper A,AN629,Finished,4,0
+Easy,Lower A,AN926,Finished,4,0
+Usual,Paired A,AN629,Finished,4,0
+Usual,Legend,AN638,Finished,0,4
+Usual,Upper A,AN638,Finished,4,0
+Usual,Paired A,AN851,Finished,4,0
+Usual,Legend,AN923,Finished,0,4
+Usual,Legend,S323A,Finished,0,5
+Usual,Upper A,S549A,In progress,4,0
+Easy,Lower A,AN637,Finished,4,0
+Usual,Legend,AN926,Finished,0,0
+Usual,Upper A,S307A,Finished,4,0
+Usual,Paired A,AN835,Finished,4,0
+Usual,Legend,AN926,Finished,0,4
+Usual,Legend,K275A,Kickback,0,4
+Usual,Paired A,AN639,Finished,4,0
+Usual,Legend,AN924,Finished,0,4
+Usual,Legend,S592A,Finished,0,4
+Usual,Upper A,AN838,Finished,4,0
+Easy,Lower A,AN922,Finished,4,0
+Usual,Upper A,AN630,Finished,4,0
+Usual,Paired A,AN853,Finished,4,0
+Easy,Lower A,AN839,Finished,4,0
+Easy,Lower A,AN839,Finished,4,0
+Usual,Upper A,AN637,Finished,4,0
+Usual,Paired A,AN840,Finished,4,0
+Usual,Paired A,AN838,Finished,4,0
+Usual,Paired A,AN838,Finished,4,0
+Usual,Paired A,AN630,Finished,4,0
+Usual,Paired A,AN847,Finished,4,0
+Usual,Legend,AN844,Finished,0,4
+Usual,Upper A,S409A,Finished,4,0
+Usual,Paired A,AN855,Finished,4,0
+Usual,Upper A,AN921,Finished,4,0
+Usual,Paired A,AN847,Finished,4,0
+Usual,Upper A,AN846,Finished,4,0
+Hard,Paired A,AN852,Finished,4,0
+Usual,Paired A,AN848,Finished,4,0
+Usual,Paired A,AN839,Finished,4,0
+Easy,Lower A,AN924,Finished,4,0
+Usual,Paired A,AN629,Finished,4,0
+Usual,Upper A,AN636,Finished,4,0
+Usual,Upper A,AN930,Finished,4,0
+Easy,Lower A,AN364,In progress,4,0
+Usual,Upper A,AN930,Finished,4,0
+Usual,Paired A,AN629,Finished,4,0
+Easy,Lower A,AN844,Finished,4,0
+Usual,Legend,AN844,In progress,0,8
+Easy,Lower A,AN844,Finished,4,0
+Hard,Lower A,AN929,Finished,4,0
+Easy,Lower A,AN635,Finished,4,0
+Easy,Lower A,AN629,Finished,4,0
+Usual,Upper A,AN844,Finished,4,0
+Easy,Lower A,AN844,Finished,4,0
+Easy,Lower A,AN835,Finished,4,0
+Easy,Lower A,AN835,Finished,4,0
+Easy,Lower A,AN838,Finished,4,0
+Usual,Paired A,AN924,Finished,4,0
+Usual,Paired A,AN630,Finished,4,0
+Usual,Paired A,AN636,Finished,4,0
+Easy,Lower A,AN637,Finished,4,0
+Easy,Lower A,AN852,Finished,4,0
+Usual,Paired A,AN843,Finished,4,0
+Usual,Legend,AN849,Finished,0,4
+Usual,Paired A,K913A,In progress,4,0
+Easy,Lower A,AN855,In progress,4,0
+Usual,Paired A,AN855,In progress,4,0
+Easy,Lower A,AN630,Finished,4,0
+Usual,Legend,AN922,Finished,0,2
+Easy,Lower A,S612A,Finished,4,0
+Usual,Paired A,AN844,Finished,4,0
+Usual,Legend,AN923,Kickback,0,4
+Usual,Paired A,S627A,Finished,4,0
+Usual,Upper A,AN837,Finished,4,0
+Usual,Paired A,AN851,Finished,4,0
+Usual,Legend,AN839,Finished,0,4
+Easy,Lower A,S535A,Finished,4,0
+Hard,Lower A,AN840,Finished,4,0
+Usual,Paired A,AN838,Finished,4,0
+Easy,Lower A,AN838,Finished,4,0
+Usual,Upper A,AN839,Finished,4,0
+Easy,Lower A,AN847,Finished,4,0
+Usual,Upper A,AN842,Finished,4,0
+Usual,Paired A,AN841,Finished,4,0
+Easy,Lower A,AN852,Finished,4,0
+Usual,Upper A,AN638,Finished,4,0
+Usual,Legend,AN638,Finished,0,4
+Hard,Legend,AN839,Finished,0,5
+Usual,Paired A,K263A,Finished,4,0
+Usual,Paired A,AN636,Finished,4,0
+Usual,Paired A,AN922,Finished,4,0
+Usual,Paired A,AN636,Finished,4,0
+Usual,Legend,AN835,Kickback,0,4
+Usual,Legend,S467A,Finished,0,5
+Usual,Upper A,S459A,Finished,4,0
+Usual,Paired A,AN837,In progress,4,0
+Usual,Legend,AN635,Finished,0,4
+Usual,Paired A,S588A,Finished,4,0
+Usual,Upper A,AN925,Finished,4,0
+Usual,Paired A,AN849,Finished,4,0
+Usual,Paired A,AN839,Finished,4,0
+Usual,Upper A,AN845,Kickback,4,0
+Hard,Paired A,AN928,Finished,4,0
+Usual,Paired A,AN844,Finished,4,0
+Usual,Legend,AN922,Finished,0,5
+Easy,Lower A,AN839,Finished,4,0
+Usual,Upper A,AN925,Finished,4,0
+Usual,Paired A,AN635,Finished,4,0
+Easy,Lower A,AN845,In progress,4,0
+Usual,Legend,AN629,In progress,0,4
+Usual,Paired A,S551A,Finished,4,0
+Usual,Paired A,AN835,Finished,4,0
+Easy,Lower A,AN852,Finished,4,0
+Usual,Paired A,AN852,Finished,4,0
+Easy,Lower A,AN629,Finished,3,0
+Usual,Legend,AN836,Finished,0,3
+Easy,Lower A,S320A,Finished,3,0
+Usual,Upper A,AN637,Finished,3,0
+Easy,Lower A,AN847,Finished,3,0
+Usual,Upper A,AN924,Finished,3,0
+Usual,Paired A,AN841,Finished,14,0
+Easy,Lower A,AN629,In progress,3,0
+Usual,Upper A,AN929,Finished,3,0
+Easy,Lower A,AN638,In progress,3,0
+Usual,Paired A,AN629,Finished,3,0
+Usual,Paired A,AN837,Finished,3,0
+Usual,Legend,AN640,Finished,0,4
+Easy,Lower A,K931A,Finished,3,0
+Usual,Upper A,AN629,Finished,3,0
+Usual,Upper A,AN848,Finished,3,0
+Usual,Legend,AN836,Finished,0,3
+Usual,Upper A,S588A,Finished,3,0
+Usual,Paired A,AN638,Finished,3,0
+Usual,Paired A,AN849,Finished,3,0
+Usual,Legend,AN849,Finished,0,3
+Usual,Legend,S546A,In progress,0,3
+Easy,Lower A,AN846,In progress,3,0
+Usual,Paired A,AN361,In progress,3,0
+Usual,Paired A,AN361,In progress,3,0
+Usual,Paired A,AN361,In progress,3,0
+Usual,Legend,AN844,Finished,0,3
+Usual,Legend,S622A,Finished,0,3
+Usual,Upper A,K275A,Finished,3,0
+Usual,Legend,AN928,Kickback,0,3
+Usual,Upper A,S613A,In progress,3,0
+Usual,Legend,AN923,Finished,0,3
+Usual,Legend,AN642,Finished,0,3
+Usual,Legend,S577A,Finished,0,3
+Usual,Paired A,S408A,Finished,3,0
+Usual,Upper A,AN629,Finished,4,0
+Usual,Paired A,AN928,Finished,3,0
+Usual,Paired A,AN840,Finished,3,0
+Easy,Lower A,AN844,Finished,3,0
+Usual,Legend,AN364,Finished,0,3
+Usual,Legend,S472A,Kickback,0,3
+Usual,Legend,K292A,Finished,0,3
+Usual,Paired A,S625A,Finished,3,0
+Usual,Upper A,AN837,Finished,3,0
+Easy,Lower A,AN841,Finished,3,0
+Usual,Legend,AN841,Finished,0,3
+Easy,Lower A,S625A,Finished,3,0
+Usual,Upper A,AN843,Finished,3,0
+Usual,Paired A,AN922,Finished,3,0
+Usual,Upper A,AN636,Finished,4,0
+Usual,Upper A,AN636,In progress,3,0
+Usual,Upper A,AN839,In progress,3,0
+Usual,Paired A,AN839,Finished,3,0
+Easy,Lower A,AN928,Finished,3,0
+Usual,Upper A,AN928,Finished,3,0
+Usual,Legend,AN364,Finished,0,3
+Usual,Legend,AN836,Kickback,0,3
+Usual,Paired A,S317A,Finished,3,0
+Usual,Paired A,AN852,Finished,3,0
+Usual,Legend,AN855,Finished,0,3
+Usual,Upper A,S435A,Finished,3,0
+Usual,Legend,AN841,Kickback,0,3
+Usual,Paired A,S577A,Finished,3,0
+Usual,Upper A,AN839,Finished,3,0
+Usual,Upper A,AN637,Finished,3,0
+Easy,Lower A,AN930,Finished,3,0
+Usual,Legend,AN851,Finished,0,5
+Easy,Lower A,AN281,Finished,3,0
+Usual,Upper A,AN852,Finished,4,0
+Usual,Legend,AN838,Finished,0,3
+Usual,Upper A,S506A,Finished,3,0
+Usual,Paired A,AN853,Finished,3,0
+Usual,Upper A,AN629,Finished,3,0
+Usual,Legend,AN925,Finished,0,3
+Hard,Paired A,S302A,Finished,3,0
+Usual,Upper A,AN844,Finished,3,0
+Usual,Paired A,AN840,Finished,8,0
+Easy,Lower A,AN851,Finished,3,0
+Usual,Upper A,AN923,In progress,3,0
+Usual,Upper A,AN844,Finished,3,0
+Usual,Legend,AN930,Finished,0,3
+Usual,Paired A,AN635,Finished,3,0
+Easy,Lower A,AN839,Finished,3,0
+Usual,Paired A,AN839,Finished,3,0
+Easy,Lower A,AN839,Finished,3,0
+Hard,Legend,AN839,Finished,0,3
+Usual,Paired A,S512A,Finished,3,0
+Usual,Legend,AN636,Kickback,0,4
+Easy,Lower A,S615A,Finished,3,0
+Usual,Paired A,AN637,In progress,3,0
+Easy,Lower A,AN637,Finished,3,0
+Usual,Legend,AN841,Finished,0,4
+Usual,Legend,AN635,Finished,0,3
+Usual,Upper A,S467A,Finished,3,0
+Usual,Upper A,AN838,Finished,3,0
+Easy,Lower A,AN841,Finished,3,0
+Usual,Upper A,AN629,Finished,3,0
+Usual,Paired A,AN925,Finished,3,0
+Easy,Lower A,AN839,Finished,3,0
+Usual,Upper A,AN364,Finished,3,0
+Usual,Upper A,AN836,Finished,3,0
+Usual,Upper A,AN843,Finished,3,0
+Usual,Upper A,AN852,Finished,3,0
+Usual,Legend,AN838,Finished,0,3
+Usual,Upper A,AN843,Finished,3,0
+Usual,Legend,AN630,Finished,0,3
+Usual,Legend,S469A,Finished,0,3
+Usual,Legend,AN841,Finished,0,5
+Usual,Paired A,S506A,Finished,3,0
+Usual,Paired A,AN642,Finished,3,0
+Usual,Upper A,AN630,Finished,3,0
+Easy,Lower A,AN637,Finished,3,0
+Usual,Paired A,AN924,Finished,3,0
+Easy,Lower A,AN848,Finished,3,0
+Easy,Lower A,AN929,Finished,3,0
+Usual,Legend,AN639,Finished,0,3
+Usual,Paired A,AN839,Finished,3,0
+Easy,Lower A,AN629,Finished,3,0
+Usual,Legend,AN629,Finished,0,4
+Usual,Upper A,S435A,Finished,3,0
+Usual,Upper A,AN843,Finished,3,0
+Easy,Lower A,AN848,Finished,3,0
+Easy,Lower A,AN923,Finished,3,0
+Easy,Lower A,AN839,Finished,3,0
+Usual,Paired A,AN855,Finished,3,0
+Usual,Paired A,AN854,Finished,3,0
+Easy,Lower A,AN364,Finished,3,0
+Usual,Upper A,AN364,Finished,3,0
+Usual,Paired A,AN853,Finished,3,0
+Usual,Legend,AN851,Finished,0,3
+Easy,Lower A,AN927,Finished,3,0
+Usual,Legend,AN851,Finished,0,4
+Usual,Legend,AN361,Finished,0,3
+Usual,Paired A,S495A,Finished,3,0
+Usual,Paired A,AN838,Finished,3,0
+Usual,Paired A,AN838,Finished,3,0
+Easy,Lower A,AN838,Finished,3,0
+Hard,Paired A,AN924,Finished,3,0
+Usual,Paired A,AN528,Finished,3,0
+Usual,Legend,AN847,Finished,0,3
+Usual,Upper A,AN629,Finished,3,0
+Usual,Upper A,AN636,Finished,3,0
+Usual,Upper A,AN928,Finished,3,0
+Usual,Legend,AN842,Finished,0,5
+Usual,Legend,S492A,Finished,0,3
+Usual,Upper A,S407A,Finished,3,0
+Easy,Warning,AN843,In progress,1,0
+Usual,Legend,AN841,Finished,0,3
+Usual,Legend,S619A,In progress,0,3
+Usual,Paired A,K280A,Finished,3,0
+Usual,Paired A,AN636,Finished,3,0
+Easy,Lower A,AN922,Finished,3,0
+Usual,Legend,AN844,Finished,0,3
+Easy,Lower A,S524A,Finished,3,0
+Usual,Legend,AN847,Finished,0,3
+Usual,Upper A,S552A,Finished,3,0
+Easy,Lower A,AN844,Finished,3,0
+Usual,Legend,AN843,Finished,0,3
+Usual,Paired A,AN843,Finished,3,0
+Easy,Lower A,AN636,Finished,4,0
+Usual,Upper A,AN629,Finished,3,0
+Usual,Paired A,AN926,Finished,3,0
+Usual,Paired A,AN838,Finished,3,0
+Easy,Lower A,AN923,Finished,3,0
+Easy,Lower A,AN848,Finished,3,0
+Hard,Legend,AN629,Finished,0,3
+Usual,Upper A,AN839,Finished,3,0
+Usual,Upper A,AN638,Finished,3,0
+Usual,Upper A,AN636,Finished,3,0
+Usual,Legend,AN921,Finished,0,3
+Usual,Paired A,S423A,Finished,3,0
+Usual,Upper A,AN847,Finished,3,0
+Usual,Legend,AN635,Finished,0,3
+Usual,Upper A,S483A,Finished,3,0
+Usual,Legend,AN364,Finished,0,3
+Usual,Legend,AN929,Finished,0,3
+Usual,Upper A,S442A,Finished,3,0
+Usual,Legend,AN638,Finished,0,3
+Usual,Legend,AN637,Finished,0,3
+Usual,Upper A,AN636,Finished,3,0
+Usual,Legend,AN838,Finished,0,3
+Easy,Lower A,S442A,Finished,3,0
+Easy,Lower A,AN929,Finished,3,0
+Easy,Lower A,AN838,Finished,3,0
+Easy,Lower A,AN846,Finished,3,0
+Easy,Lower A,AN837,Finished,3,0
+Easy,Lower A,AN922,Finished,3,0
+Easy,Lower A,AN923,Finished,3,0
+Usual,Paired A,AN925,Finished,3,0
+Usual,Legend,AN636,Finished,0,3
+Easy,Lower A,AN853,Finished,3,0
+Easy,Lower A,AN639,Finished,3,0
+Easy,Lower A,AN854,Finished,3,0
+Easy,Lower A,AN922,Finished,3,0
+Easy,Lower A,AN925,Finished,3,0
+Usual,Upper A,AN838,Finished,4,0
+Usual,Upper A,AN629,Finished,3,0
+Easy,Lower A,AN925,Finished,3,0
+Usual,Legend,AN922,Kickback,0,3
+Easy,Lower A,AN928,Finished,4,0
+Easy,Lower A,AN638,Finished,3,0
+Usual,Paired A,AN930,Finished,3,0
+Usual,Legend,AN854,Finished,0,3
+Easy,Lower A,K913A,Finished,3,0
+Usual,Paired A,AN637,Finished,3,0
+Easy,Lower A,AN929,Finished,3,0
+Usual,Upper A,AN837,Finished,3,0
+Easy,Lower A,AN844,Finished,3,0
+Usual,Legend,AN926,Kickback,0,3
+Usual,Paired A,AN848,Finished,3,0
+Usual,Upper A,AN848,Finished,3,0
+Usual,Legend,AN638,Finished,0,3
+Usual,Paired A,AN839,Finished,3,0
+Usual,Paired A,AN852,Finished,3,0
+Usual,Paired A,AN852,Finished,3,0
+Usual,Paired A,AN841,Finished,3,0
+Usual,Legend,AN837,Finished,0,3
+Usual,Paired A,S407A,Finished,3,0
+Easy,Lower A,AN843,Finished,3,0
+Usual,Paired A,AN843,In progress,3,0
+Usual,Legend,AN842,Kickback,0,3
+Easy,Lower A,AN361,Kickback,3,0
+Usual,Legend,AN835,Finished,0,3
+Usual,Legend,S419A,Finished,0,4
+Usual,Paired A,S565A,Finished,3,0
+Usual,Upper A,AN929,Finished,3,0
+Usual,Legend,AN361,Finished,0,3
+Easy,Lower A,K921A,Finished,3,0
+Usual,Upper A,AN839,Finished,3,0
+Usual,Legend,AN841,Finished,0,3
+Usual,Legend,S537A,Finished,0,3
+Usual,Legend,S593A,Finished,0,3
+Hard,Lower A,T291B,Finished,4,0
+Easy,Lower A,AN835,Finished,3,0
+Usual,Legend,AN854,Finished,0,3
+Easy,Lower A,S302A,Finished,3,0
+Usual,Legend,AN838,Finished,0,3
+Usual,Upper A,AN638,Finished,3,0
+Usual,Legend,AN639,Finished,0,3
+Usual,Upper A,K920A,Finished,3,0
+Usual,Legend,AN638,Suspend,0,3
+Easy,Lower A,S627A,Finished,3,0
+Usual,Legend,AN361,Finished,0,4
+Easy,Lower A,S568A,Finished,3,0
+Easy,Lower A,AN837,Finished,3,0
+Easy,Lower A,AN835,Finished,4,0
+Usual,Upper A,AN924,In progress,3,0
+Usual,Legend,AN839,Finished,0,3
+Usual,Legend,AN642,Finished,0,3
+Usual,Paired A,S440A,Finished,3,0
+Usual,Upper A,AN364,Finished,3,0
+Usual,Paired A,AN839,Finished,3,0
+Usual,Upper A,AN928,Finished,3,0
+Easy,Lower A,AN848,Kickback,3,0
+Usual,Upper A,AN835,Finished,3,0
+Easy,Lower A,AN921,Finished,3,0
+Usual,Paired A,AN852,In progress,3,0
+Usual,Paired A,AN637,Finished,4,0
+Usual,Paired A,AN630,Finished,3,0
+Usual,Paired A,AN364,Finished,3,0
+Easy,Lower A,AN928,Finished,3,0
+Hard,Upper A,AN630,Finished,3,0
+Usual,Upper A,AN844,Finished,3,0
+Usual,Legend,AN840,Finished,0,4
+Usual,Upper A,S627A,Finished,3,0
+Easy,Lower A,AN842,Finished,3,0
+Usual,Legend,AN361,Finished,0,3
+Usual,Paired A,S520A,Finished,3,0
+Easy,Lower A,AN361,Finished,3,0
+Usual,Upper A,AN361,Finished,3,0
+Usual,Upper A,AN842,Finished,3,0
+Easy,Lower A,AN847,Finished,3,0
+Usual,Upper A,AN927,Finished,3,0
+Usual,Legend,AN924,Finished,0,4
+Usual,Legend,S589A,Finished,0,3
+Usual,Legend,AN639,Kickback,0,3
+Hard,Legend,S402A,Finished,0,3
+Hard,Lower A,S508A,In progress,4,0
+Usual,Upper A,AN852,Finished,3,0
+Usual,Legend,AN364,Finished,0,4
+Usual,Legend,K918A,Finished,0,3
+Usual,Upper A,AN636,Finished,3,0
+Easy,Lower A,AN928,Finished,3,0
+Usual,Legend,AN847,Finished,0,4
+Easy,Lower A,AN842,In progress,3,0
+Usual,Legend,AN927,Finished,0,3
+Easy,Lower A,S519A,Finished,3,0
+Usual,Paired A,AN837,Finished,3,0
+Easy,Lower A,AN629,Finished,3,0
+Easy,Lower A,AN837,Finished,3,0
+Easy,Lower A,AN837,Finished,3,0
+Easy,Lower A,AN855,Finished,3,0
+Usual,Legend,AN636,Finished,0,3
+Easy,Lower A,S517A,Finished,3,0
+Easy,Lower A,AN925,Finished,4,0
+Usual,Legend,AN846,Finished,0,3
+Usual,Legend,S614A,Finished,0,3
+Usual,Paired A,S594A,Finished,3,0
+Usual,Legend,AN848,Finished,0,3
+Usual,Legend,AN845,Finished,0,3
+Usual,Upper A,S564A,Finished,3,0
+Usual,Paired A,AN845,Finished,3,0
+Usual,Upper A,AN636,Finished,3,0
+Usual,Legend,AN361,Finished,0,3
+Usual,Upper A,S618A,Finished,3,0
+Usual,Paired A,AN846,Finished,3,0
+Usual,Paired A,AN845,Finished,3,0
+Usual,Paired A,AN843,Finished,3,0
+Usual,Upper A,AN837,Finished,3,0
+Usual,Paired A,AN635,Finished,4,0
+Usual,Legend,AN847,Finished,0,3
+Hard,Lower A,S584A,Finished,3,0
+Usual,Legend,AN630,Finished,0,5
+Usual,Upper A,K280A,Finished,4,0
+Usual,Legend,AN846,Finished,0,3
+Usual,Upper A,K913A,Finished,3,0
+Easy,Lower A,AN921,Finished,3,0
+Usual,Paired A,AN844,Finished,3,0
+Usual,Upper A,AN929,Kickback,3,0
+Usual,Legend,AN925,Finished,0,4
+Usual,Upper A,S523A,Finished,3,0
+Usual,Upper A,AN845,Finished,3,0
+Usual,Legend,AN845,Finished,0,3
+Usual,Legend,AN629,Finished,0,4
+Usual,Legend,K270A,Finished,0,3
+Usual,Legend,S514A,Finished,0,3
+Easy,Lower A,K920A,Finished,3,0
+Usual,Legend,AN638,Finished,0,3
+Usual,Upper A,AN847,Finished,3,0
+Usual,Paired A,AN639,Finished,3,0
+Usual,Legend,AN629,Finished,0,3
+Hard,Legend,S513A,Finished,0,3
+Usual,Legend,S403A,Finished,0,4
+Usual,Paired A,AN639,Finished,3,0
+Usual,Legend,AN841,Finished,0,3
+Usual,Upper A,AN840,Finished,3,0
+Usual,Paired A,AN855,Finished,3,0
+Usual,Upper A,AN841,Finished,3,0
+Usual,Upper A,AN630,Finished,3,0
+Usual,Paired A,AN838,Finished,3,0
+Usual,Upper A,AN836,Finished,3,0
+Easy,Lower A,AN930,Finished,3,0
+Usual,Upper A,AN847,Finished,3,0
+Easy,Lower A,AN930,Finished,3,0
+Easy,Lower A,AN851,Finished,3,0
+Easy,Lower A,AN852,Finished,4,0
+Easy,Lower A,AN844,Finished,3,0
+Easy,Lower A,AN837,Finished,3,0
+Easy,Lower A,AN839,Finished,3,0
+Usual,Upper A,AN522,Finished,3,0
+Easy,Lower A,AN835,Finished,3,0
+Easy,Lower A,AN836,Finished,3,0
+Easy,Lower A,AN927,Finished,4,0
+Usual,Paired A,AN839,Finished,3,0
+Hard,Lower A,AN835,Finished,3,0
+Easy,Lower A,AN630,Finished,3,0
+Usual,Paired A,AN925,Finished,3,0
+Easy,Lower A,AN854,Finished,3,0
+Easy,Lower A,AN930,Finished,3,0
+Usual,Upper A,AN921,Finished,3,0
+Easy,Lower A,AN929,Finished,4,0
+Hard,Lower A,AN847,Finished,4,0
+Easy,Lower A,AN637,Finished,3,0
+Usual,Paired A,AN847,Finished,3,0
+Usual,Paired A,AN844,Finished,3,0
+Easy,Lower A,AN846,Finished,3,0
+Easy,Lower A,AN927,Finished,4,0
+Easy,Lower A,AN844,Finished,3,0
+Usual,Upper A,AN852,Finished,3,0
+Easy,Lower A,AN639,Finished,3,0
+Easy,Lower A,AN835,Finished,3,0
+Usual,Upper A,AN929,Finished,3,0
+Easy,Lower A,AN849,Finished,3,0
+Easy,Lower A,AN927,Finished,3,0
+Easy,Lower A,AN847,Finished,3,0
+Easy,Lower A,AN843,Finished,3,0
+Easy,Lower A,AN926,Finished,3,0
+Easy,Lower A,AN837,Finished,4,0
+Easy,Lower A,AN637,In progress,3,0
+Usual,Upper A,AN921,Finished,3,0
+Easy,Lower A,AN629,In progress,3,0
+Easy,Lower A,AN929,Finished,4,0
+Easy,Lower A,AN848,Finished,3,0
+Easy,Lower A,AN924,Finished,3,0
+Easy,Lower A,AN927,Finished,3,0
+Easy,Lower A,AN840,Finished,3,0
+Easy,Lower A,AN630,Finished,3,0
+Easy,Lower A,AN922,Finished,3,0
+Easy,Lower A,AN923,Finished,3,0
+Hard,Lower A,AN855,Finished,4,0
+Easy,Lower A,AN845,Finished,3,0
+Easy,Lower A,AN926,Finished,3,0
+Usual,Upper A,AN927,Finished,3,0
+Easy,Lower A,AN930,Finished,3,0
+Easy,Lower A,AN921,Finished,3,0
+Easy,Lower A,AN855,Finished,3,0
+Easy,Lower A,AN929,Finished,3,0
+Usual,Upper A,AN835,Finished,3,0
+Easy,Lower A,AN847,In progress,3,0
+Easy,Lower A,AN844,Finished,3,0
+Easy,Lower A,AN848,Finished,3,0
+Easy,Lower A,AN852,Finished,5,0
+Easy,Lower A,AN636,Finished,3,0
+Hard,Lower A,AN921,Finished,14,0
+Easy,Lower A,AN855,Finished,3,0
+Easy,Lower A,AN926,Finished,3,0
+Easy,Lower A,AN926,Finished,3,0
+Easy,Lower A,AN638,Finished,3,0
+Easy,Lower A,AN852,Finished,4,0
+Usual,Upper A,AN923,Finished,3,0
+Easy,Lower A,AN846,Finished,3,0
+Easy,Lower A,AN639,Finished,3,0
+Easy,Lower A,AN842,Finished,3,0
+Easy,Lower A,AN839,Finished,3,0
+Easy,Lower A,AN837,In progress,5,0
+Easy,Lower A,AN839,Finished,3,0
+Easy,Lower A,AN638,Finished,3,0
+Easy,Lower A,AN629,Finished,3,0
+Easy,Lower A,AN838,Finished,3,0
+Usual,Paired A,AN837,Finished,3,0
+Easy,Lower A,AN836,Finished,3,0
+Hard,Lower A,AN847,Finished,3,0
+Easy,Lower A,AN849,Finished,3,0
+Easy,Lower A,AN522,Finished,3,0
+Easy,Lower A,AN923,Finished,3,0
+Easy,Lower A,AN923,Finished,3,0
+Usual,Upper A,AN842,Finished,3,0
+Easy,Lower A,AN842,Finished,3,0
+Easy,Lower A,AN928,Finished,3,0
+Usual,Legend,AN930,Finished,0,3
+Usual,Legend,S431A,Finished,0,3
+Usual,Legend,AN839,Kickback,0,3
+Usual,Legend,K292A,Finished,0,3
+Usual,Legend,S457A,Finished,0,3
+Usual,Legend,K237A,Kickback,0,5
+Easy,Lower A,AN840,Finished,3,0
+Usual,Legend,AN922,Finished,0,3
+Usual,Legend,AN839,Finished,0,3
+Usual,Legend,S565A,Finished,0,3
+Usual,Legend,S493A,Finished,0,3
+Usual,Legend,K294A,Finished,0,4
+Usual,Legend,S622A,Finished,0,3
+Usual,Upper A,S442A,Started,3,0
+Usual,Legend,AN838,Finished,0,3
+Usual,Legend,S626A,Finished,0,3
+Usual,Legend,AN846,Kickback,0,3
+Usual,Legend,S556A,Finished,0,3
+Hard,Legend,AN361,Finished,0,3
+Usual,Legend,S549A,Finished,0,3
+Usual,Paired A,K294A,Finished,3,0
+Usual,Legend,AN928,Finished,0,3
+Usual,Legend,AN364,Finished,0,3
+Usual,Legend,S442A,Kickback,0,3
+Hard,Legend,S618A,Finished,0,3
+Usual,Legend,S508A,Finished,0,3
+Usual,Legend,K251A,Finished,0,3
+Usual,Legend,S597A,Finished,0,3
+Usual,Legend,S537A,Finished,0,3
+Usual,Legend,S402A,Finished,0,3
+Usual,Legend,AN921,Finished,0,4
+Usual,Legend,AN361,Finished,0,3
+Usual,Legend,K915A,Finished,0,3
+Usual,Legend,S462A,Finished,0,3
+Usual,Legend,K935A,Finished,0,3
+Hard,Legend,S323A,Finished,0,3
+Usual,Legend,S517A,Finished,0,3
+Usual,Upper A,AN642,In progress,3,0
+Usual,Legend,AN922,Finished,0,4
+Hard,Lower A,K280A,In progress,3,0
+Usual,Legend,AN926,Finished,0,3
+Usual,Legend,K280A,Finished,0,3
+Usual,Legend,S536A,Finished,0,5
+Usual,Legend,AN855,Finished,0,3
+Hard,Legend,S549A,Finished,0,3
+Usual,Legend,S570A,Finished,0,3
+Usual,Legend,S588A,Finished,0,3
+Usual,Legend,AN839,Finished,0,3
+Usual,Legend,AN844,Kickback,0,3
+Hard,Legend,S568A,Finished,0,4
+Usual,Legend,S526A,Finished,0,3
+Usual,Legend,S319A,Kickback,0,3
+Easy,Lower A,K296A,Finished,3,0
+Usual,Legend,AN927,Finished,0,3
+Usual,Legend,K294A,Finished,0,4
+Usual,Legend,S457A,Finished,0,3
+Usual,Legend,S609A,Finished,0,3
+Usual,Legend,S462A,Finished,0,3
+Usual,Legend,AN361,Finished,0,3
+Usual,Legend,K974A,Finished,0,3
+Usual,Legend,S548A,In progress,0,4
+Usual,Legend,S583A,Finished,0,3
+Hard,Legend,S537A,Finished,0,3
+Usual,Legend,S508A,In progress,0,3
+Easy,Lower A,K248A,Finished,3,0
+Usual,Paired A,AN924,In progress,3,0
+Easy,Lower A,AN642,In progress,3,0
+Easy,Lower A,AN842,In progress,3,0
+Usual,Legend,AN839,Finished,0,3
+Hard,Legend,S495A,Finished,0,3
+Usual,Legend,S419A,Finished,0,3
+Usual,Legend,K272A,Finished,0,3
+Usual,Legend,S531A,Finished,0,3
+Usual,Legend,S581A,Finished,0,3
+Usual,Legend,AN636,Kickback,0,3
+Usual,Legend,S472A,Finished,0,3
+Usual,Legend,AN364,Kickback,0,4
+Usual,Legend,S558A,Finished,0,4
+Easy,Lower A,S520A,Finished,3,0
+Usual,Legend,AN843,Finished,0,3
+Usual,Legend,AN639,Finished,0,3
+Usual,Legend,K918A,In progress,0,3
+Usual,Legend,AN846,Finished,0,4
+Easy,Lower A,S566A,In progress,3,0
+Usual,Paired A,AN924,Finished,3,0
+Usual,Legend,AN847,Finished,0,4
+Usual,Legend,S560A,Finished,0,7
+Easy,Lower A,AN837,Finished,3,0
+Usual,Legend,AN837,Finished,0,3
+Usual,Legend,AN625,Finished,0,4
+Usual,Legend,S508A,Finished,0,4
+Usual,Legend,S584A,Finished,0,3
+Usual,Legend,K265A,Kickback,0,3
+Usual,Legend,K281A,Kickback,0,3
+Usual,Legend,AN843,Finished,0,3
+Usual,Legend,S513A,Finished,0,5
+Usual,Legend,S514A,Finished,0,3
+Easy,Lower B,S536A,In progress,3,0
+Hard,Legend,K915A,Finished,0,9
+Hard,Legend,AN838,Kickback,0,3
+Usual,Legend,S619A,Started,0,3
+Usual,Legend,AN848,Finished,0,4
+Usual,Legend,K272A,In progress,0,3
+Usual,Legend,AN630,Finished,0,3
+Usual,Legend,S408A,Kickback,0,3
+Usual,Upper A,S464A,Finished,3,0
+Usual,Legend,AN843,Finished,0,3
+Usual,Legend,AN629,Finished,0,3
+Usual,Legend,K973A,Finished,0,3
+Usual,Legend,S518A,Finished,0,3
+Usual,Legend,S553A,Finished,0,3
+Usual,Legend,S457A,Finished,0,6
+Easy,Lower A,AN637,In progress,3,0
+Usual,Legend,AN928,Finished,0,3
+Usual,Legend,K293A,Finished,0,6
+Usual,Legend,S303A,Finished,0,7
+Usual,Legend,K293A,Finished,0,3
+Usual,Legend,S526A,Kickback,0,3
+Usual,Legend,S549A,Finished,0,3
+Hard,Lower A,S435A,Finished,3,0
+Usual,Legend,AN925,Finished,0,3
+Usual,Legend,K287A,Kickback,0,4
+Easy,Lower A,AN361,Finished,3,0
+Usual,Legend,AN928,Finished,0,3
+Usual,Legend,S440A,Finished,0,4
+Easy,Lower A,S413A,Finished,3,0
+Usual,Legend,AN630,In progress,0,3
+Usual,Legend,S597A,Finished,0,4
+Usual,Legend,AN847,Finished,0,3
+Usual,Legend,S592A,Finished,0,3
+Easy,Lower A,S626A,In progress,3,0
+Usual,Legend,AN927,Finished,0,3
+Usual,Legend,S462A,Kickback,0,3
+Usual,Legend,K918A,Finished,0,3
+Usual,Legend,S537A,Finished,0,3
+Usual,Legend,K247A,Finished,0,3
+Usual,Legend,AN925,Finished,0,3
+Usual,Legend,S622A,Finished,0,3
+Usual,Upper A,S407A,In progress,3,0
+Hard,Lower A,AN847,Finished,3,0
+Usual,Legend,AN854,Finished,0,3
+Usual,Legend,AN923,Finished,0,3
+Usual,Upper A,K924A,Finished,3,0
+Usual,Legend,AN361,Finished,0,3
+Usual,Legend,S587A,Finished,0,3
+Usual,Paired A,S307A,Finished,3,0
+Usual,Legend,AN841,Finished,0,3
+Usual,Legend,S472A,Finished,0,3
+Usual,Legend,S611A,Finished,0,4
+Hard,Legend,AN852,Kickback,0,3
+Usual,Legend,AN836,Finished,0,3
+Usual,Legend,K292A,Finished,0,3
+Usual,Legend,S590A,Finished,0,3
+Usual,Legend,S323A,Finished,0,3
+Usual,Legend,AN841,Finished,0,3
+Hard,Lower A,AN838,Finished,3,0
+Usual,Legend,AN835,Finished,0,3
+Usual,Legend,AN925,Finished,0,4
+Usual,Legend,S564A,Finished,0,3
+Usual,Legend,S520A,Finished,0,3
+Usual,Legend,S607A,Finished,0,3
+Usual,Legend,K293A,Finished,0,3
+Usual,Legend,S323A,Finished,0,4
+Usual,Legend,S557A,Finished,0,3
+Usual,Legend,S568A,Finished,0,3
+Usual,Legend,AN854,Finished,0,3
+Hard,Legend,S619A,Finished,0,3
+Usual,Upper A,AN836,Finished,3,0
+Usual,Legend,AN839,Finished,0,4
+Usual,Legend,AN639,Finished,0,3
+Usual,Legend,AN929,Finished,0,3
+Usual,Legend,S468A,Finished,0,3
+Easy,Lower A,S566A,Finished,3,0
+Usual,Legend,AN286,Finished,0,4
+Hard,Legend,AN846,Finished,0,4
+Usual,Legend,S537A,Kickback,0,4
+Usual,Legend,K263A,Finished,0,3
+Usual,Legend,S526A,Finished,0,3
+Usual,Legend,K281A,Finished,0,3
+Usual,Legend,S309A,Finished,0,3
+Easy,Lower A,S622A,Finished,3,0
+Usual,Upper A,AN855,Finished,3,0
+Usual,Legend,AN364,Finished,0,3
+Usual,Legend,S535A,Finished,0,3
+Usual,Legend,K273A,Finished,0,3
+Usual,Legend,AN922,Started,0,3
+Usual,Legend,AN922,Kickback,0,4
+Usual,Legend,S320A,Finished,0,4
+Usual,Legend,S462A,Finished,0,3
+Usual,Paired A,S524A,Finished,3,0
+Usual,Legend,AN855,Finished,0,3
+Easy,Lower A,S560A,Finished,3,0
+Usual,Legend,AN847,Finished,0,3
+Usual,Legend,AN851,Finished,0,3
+Usual,Legend,AN925,Kickback,0,3
+Usual,Legend,S546A,Finished,0,4
+Usual,Legend,S596A,Finished,0,5
+Usual,Legend,AN839,Finished,0,4
+Easy,Lower A,S442A,Finished,3,0
+Easy,Lower A,AN849,In progress,3,0
+Usual,Legend,AN845,Finished,0,3
+Usual,Legend,K214A,Finished,0,3
+Usual,Legend,S538A,Kickback,0,3
+Usual,Legend,AN852,Finished,0,3
+Usual,Upper A,S523A,Finished,3,0
+Usual,Legend,AN927,Finished,0,3
+Usual,Legend,S557A,Finished,0,3
+Usual,Legend,S566A,Finished,0,3
+Usual,Legend,S531A,Finished,0,3
+Usual,Legend,K263A,Finished,0,3
+Usual,Legend,AN630,Finished,0,3
+Usual,Legend,S613A,Finished,0,3
+Usual,Legend,AN921,In progress,0,3
+Usual,Upper A,S408A,Finished,3,0
+Usual,Legend,AN638,Finished,0,3
+Usual,Upper A,K264A,Finished,3,0
+Usual,Legend,AN844,Finished,0,3
+Usual,Legend,AN835,Finished,0,3
+Usual,Legend,AN924,Finished,0,3
+Easy,Lower A,S409A,In progress,3,0
+Usual,Legend,AN923,Finished,0,3
+Usual,Upper A,S435A,Finished,3,0
+Usual,Legend,AN928,Kickback,0,3
+Usual,Upper A,AN630,In progress,3,0
+Usual,Legend,AN364,Finished,0,4
+Usual,Legend,S402A,Finished,0,3
+Usual,Legend,S472A,Finished,0,3
+Usual,Legend,S467A,In progress,0,3
+Usual,Legend,S530A,Finished,0,3
+Usual,Legend,S553A,Finished,0,3
+Usual,Legend,AN637,In progress,0,3
+Usual,Legend,S303A,Finished,0,3
+Usual,Legend,S587A,Finished,0,4
+Usual,Legend,S402A,Finished,0,3
+Usual,Legend,K236A,Finished,0,3
+Usual,Legend,S464A,Finished,0,3
+Usual,Legend,AN845,Finished,0,3
+Usual,Legend,S494A,Finished,0,4
+Easy,Lower A,AN848,In progress,3,0
+Easy,Lower A,AN639,Finished,3,0
+Easy,Lower B,AN841,Started,3,0
+Usual,Legend,K920A,Finished,0,4
+Usual,Legend,K282A,Finished,0,3
+Usual,Upper A,AN924,Finished,3,0
+Easy,Lower A,AN849,In progress,3,0
+Usual,Upper A,AN361,In progress,3,0
+Usual,Legend,AN926,Finished,0,3
+Usual,Legend,AN361,Finished,0,4
+Usual,Legend,S615A,Finished,0,3
+Usual,Upper A,S486A,In progress,3,0
+Usual,Legend,AN926,Finished,0,3
+Hard,Lower A,S562A,Finished,3,0
+Usual,Legend,AN855,In progress,0,3
+Usual,Legend,S448A,Finished,0,3
+Usual,Legend,S435A,Finished,0,4
+Usual,Legend,K288A,Finished,0,3
+Usual,Legend,AN848,Finished,0,3
+Usual,Upper A,S518A,Finished,3,0
+Usual,Legend,AN635,Finished,0,3
+Easy,Lower A,K280A,Finished,3,0
+Usual,Upper A,AN845,Finished,3,0
+Usual,Legend,AN286,Finished,0,4
+Hard,Legend,S491A,Finished,0,3
+Usual,Paired A,AN361,Finished,3,0
+Usual,Paired A,AN854,Finished,3,0
+Usual,Upper A,AN630,In progress,3,0
+Usual,Legend,AN853,Finished,0,3
+Easy,Lower A,S626A,In progress,3,0
+Usual,Legend,AN845,Finished,0,5
+Usual,Legend,K263A,In progress,0,3
+Usual,Legend,K277A,Finished,0,3
+Usual,Legend,S469A,Finished,0,3
+Usual,Paired A,AN844,Finished,3,0
+Usual,Legend,AN929,Finished,0,3
+Usual,Legend,S440A,Finished,0,3
+Usual,Legend,K280A,Finished,0,5
+Usual,Legend,K277A,Finished,0,3
+Usual,Legend,S592A,Finished,0,3
+Usual,Legend,AN840,Finished,0,3
+Easy,Lower A,S532A,Finished,3,0
+Easy,Lower A,AN847,Finished,3,0
+Usual,Legend,AN921,Finished,0,3
+Easy,Lower B,S519A,In progress,3,0
+Usual,Upper A,K915A,Finished,3,0
+Usual,Legend,AN638,Finished,0,3
+Usual,Legend,K919A,Finished,0,3
+Usual,Legend,K251A,Finished,0,3
+Usual,Legend,AN636,Finished,0,3
+Usual,Legend,K278A,Finished,0,3
+Usual,Legend,S523A,Kickback,0,6
+Easy,Lower A,S551A,In progress,3,0
+Usual,Legend,AN361,Finished,0,3
+Usual,Legend,S548A,Finished,0,3
+Usual,Legend,S323A,Kickback,0,3
+Usual,Legend,S579A,Kickback,0,3
+Usual,Legend,S589A,Finished,0,3
+Usual,Legend,AN930,Finished,0,3
+Usual,Legend,AN843,In progress,0,3
+Usual,Legend,S626A,Finished,0,3
+Usual,Legend,K280A,Finished,0,3
+Easy,Lower B,S483A,In progress,3,0
+Usual,Legend,K926A,Finished,0,4
+Usual,Legend,S514A,Finished,0,3
+Usual,Paired A,S537A,Finished,3,0
+Usual,Legend,AN361,Finished,0,3
+Usual,Legend,S579A,Finished,0,3
+Easy,Lower A,AN840,Finished,3,0
+Usual,Legend,AN361,Kickback,0,3
+Usual,Legend,S403A,Finished,0,4
+Usual,Legend,AN930,Finished,0,4
+Usual,Legend,S594A,Finished,0,3
+Usual,Legend,AN928,Finished,0,3
+Usual,Legend,S428A,Suspend,0,3
+Usual,Legend,S577A,Finished,0,3
+Usual,Legend,S565A,Finished,0,3
+Usual,Legend,K215A,Finished,0,3
+Usual,Legend,S468A,Finished,0,3
+Usual,Legend,K290A,Finished,0,3
+Usual,Legend,K280A,Finished,0,4
+Usual,Legend,K294A,Finished,0,3
+Usual,Legend,S508A,Finished,0,3
+Usual,Legend,AN848,In progress,0,3
+Usual,Legend,S513A,Finished,0,4
+Easy,Lower A,S524A,Finished,3,0
+Hard,Legend,AN929,Finished,0,3
+Usual,Legend,S440A,Finished,0,3
+Usual,Legend,S583A,Kickback,0,1
+Easy,Lower A,S560A,Finished,3,0
+Hard,Legend,AN838,Finished,0,3
+Usual,Legend,S448A,Finished,0,3
+Usual,Upper A,S419A,In progress,3,0
+Usual,Legend,AN364,Finished,0,4
+Easy,Lower B,S570A,In progress,3,0
+Easy,Lower A,K915A,Finished,3,0
+Usual,Legend,AN923,Finished,0,3
+Usual,Legend,S467A,Finished,0,3
+Usual,Legend,S305A,Finished,0,3
+Usual,Legend,S583A,Finished,0,3
+Usual,Legend,AN926,Finished,0,3
+Usual,Legend,S305A,Finished,0,3
+Usual,Legend,AN926,Kickback,0,3
+Usual,Legend,S557A,Finished,0,3
+Usual,Legend,S583A,Finished,0,3
+Usual,Legend,AN639,Kickback,0,3
+Usual,Legend,S592A,Finished,0,3
+Usual,Legend,S535A,Finished,0,3
+Usual,Legend,S584A,Kickback,0,3
+Usual,Legend,AN638,Finished,0,3
+Usual,Legend,S581A,Finished,0,3
+Usual,Legend,S468A,Finished,0,3
+Usual,Legend,S472A,Finished,0,3
+Usual,Legend,S516A,In progress,0,3
+Usual,Legend,S471A,Finished,0,3
+Easy,Lower B,S524A,In progress,3,0
+Usual,Legend,K933A,Finished,0,3
+Usual,Legend,AN361,Finished,0,3
+Usual,Legend,S487A,Finished,0,3
+Usual,Legend,S481A,Kickback,0,3
+Usual,Legend,S622A,Finished,0,3
+Usual,Upper A,S419A,In progress,3,0
+Usual,Legend,AN642,Finished,0,3
+Easy,Lower A,S546A,Finished,3,0
+Easy,Lower A,AN629,In progress,3,0
+Usual,Legend,AN927,Finished,0,4
+Usual,Legend,K281A,Finished,0,3
+Usual,Legend,S483A,Finished,0,3
+Usual,Legend,S611A,Finished,0,3
+Usual,Legend,K215A,Finished,0,3
+Usual,Legend,S518A,Finished,0,3
+Usual,Legend,S563A,In progress,0,3
+Usual,Legend,K236A,Finished,0,4
+Easy,Lower A,S570A,In progress,3,0
+Usual,Legend,AN928,In progress,0,3
+Usual,Legend,S409A,Finished,0,4
+Usual,Legend,AN844,Finished,0,3
+Usual,Legend,K214A,Finished,0,3
+Usual,Legend,S464A,Finished,0,3
+Hard,Paired A,K283A,In progress,3,0
+Usual,Legend,AN852,Finished,0,3
+Usual,Upper A,AN838,Finished,3,0
+Usual,Legend,AN629,Finished,0,3
+Usual,Legend,K264A,Finished,0,4
+Easy,Lower A,S479A,Finished,3,0
+Usual,Legend,AN855,Kickback,0,3
+Usual,Legend,K290A,Finished,0,4
+Usual,Paired A,AN855,Finished,3,0
+Easy,Lower A,AN636,Finished,3,0
+Usual,Legend,AN927,Finished,0,3
+Usual,Upper A,K915A,Finished,3,0
+Usual,Legend,AN841,Finished,0,3
+Usual,Legend,S419A,Finished,0,3
+Usual,Legend,K238A,Finished,0,4
+Usual,Legend,S546A,Finished,0,1
+Usual,Paired A,S552A,Finished,3,0
+Usual,Legend,AN635,Finished,0,3
+Easy,Lower A,S403A,Finished,3,0
+Hard,Paired A,AN843,In progress,3,0
+Usual,Legend,AN852,Kickback,0,3
+Easy,Lower A,AN842,Finished,3,0
+Usual,Legend,AN927,Finished,0,4
+Easy,Lower A,AN841,Finished,3,0
+Usual,Legend,AN930,Finished,0,3
+Usual,Legend,K247A,Finished,0,3
+Usual,Legend,K266A,Finished,0,3
+Easy,Lower B,AN842,In progress,3,0
+Hard,Legend,K972A,Finished,0,3
+Usual,Legend,S525A,Finished,0,3
+Usual,Legend,S431A,Finished,0,4
+Easy,Lower A,AN847,Finished,4,0
+Usual,Legend,AN838,Finished,0,3
+Usual,Legend,AN839,Suspend,0,3
+Usual,Legend,K918A,Finished,0,3
+Usual,Legend,AN921,Kickback,0,3
+Usual,Legend,S549A,Finished,0,3
+Usual,Legend,S435A,Finished,0,4
+Usual,Legend,K971A,Finished,0,3
+Easy,Lower A,K224A,Finished,3,0
+Easy,Lower A,AN642,In progress,3,0
+Usual,Legend,AN839,Started,0,6
+Easy,Lower A,AN851,Finished,3,0
+Usual,Legend,AN848,Kickback,0,3
+Usual,Legend,AN839,Finished,0,3
+Usual,Legend,AN638,In progress,0,3
+Easy,Lower A,AN923,In progress,3,0
+Usual,Legend,AN927,Finished,0,3
+Usual,Legend,K268A,Finished,0,3
+Usual,Legend,K224A,Finished,0,3
+Easy,Lower A,AN921,Finished,2,0
+Usual,Legend,AN923,Finished,0,3
+Usual,Legend,AN845,Finished,0,3
+Usual,Legend,AN637,Finished,0,3
+Usual,Legend,S472A,Finished,0,3
+Usual,Legend,K277A,Finished,0,4
+Usual,Legend,S318A,Finished,0,3
+Usual,Legend,S513A,Finished,0,3
+Hard,Legend,K285A,Finished,0,4
+Usual,Legend,AN840,Finished,0,3
+Usual,Legend,AN929,Kickback,0,3
+Easy,Lower A,S528A,In progress,3,0
+Easy,Lower A,AN928,Started,3,0
+Usual,Legend,AN922,Finished,0,3
+Hard,Legend,S533A,Finished,0,4
+Easy,Lower A,AN854,Finished,3,0
+Usual,Legend,AN845,Started,0,3
+Usual,Upper A,S556A,In progress,3,0
+Usual,Legend,AN844,Finished,0,3
+Usual,Legend,AN629,Finished,0,3
+Usual,Legend,S560A,Finished,0,3
+Usual,Legend,S479A,Finished,0,3
+Usual,Legend,S459A,Finished,0,4
+Hard,Legend,K926A,Finished,0,3
+Usual,Legend,S305A,Finished,0,4
+Usual,Legend,AN628,Finished,0,4
+Usual,Legend,S552A,Finished,0,3
+Usual,Paired B,S552A,Started,7,0
+Usual,Legend,K935A,Finished,0,3
+Hard,Legend,K280A,Finished,0,3
+Usual,Paired A,S302A,Finished,3,0
+Usual,Legend,AN855,Finished,0,3
+Usual,Legend,K263A,Suspend,0,3
+Usual,Legend,S533A,Finished,0,3
+Usual,Legend,S306A,Finished,0,3
+Usual,Legend,K296A,Finished,0,4
+Usual,Legend,AN839,Finished,0,4
+Usual,Legend,S457A,Finished,0,3
+Usual,Legend,S307A,Finished,0,3
+Usual,Upper A,AN922,Finished,3,0
+Usual,Legend,AN846,Finished,0,3
+Hard,Legend,AN835,Finished,0,3
+Usual,Legend,S487A,Finished,0,3
+Easy,Lower A,AN642,Finished,3,0
+Usual,Legend,AN923,Finished,0,3
+Usual,Legend,K270A,Finished,0,3
+Usual,Legend,S593A,Finished,0,3
+Usual,Legend,S315A,Finished,0,3
+Usual,Legend,AN361,Finished,0,3
+Usual,Legend,AN854,Finished,0,4
+Usual,Legend,S513A,Finished,0,3
+Usual,Legend,S579A,Kickback,0,3
+Easy,Lower A,AN854,Finished,3,0
+Usual,Legend,AN364,Finished,0,3
+Usual,Legend,S307A,Finished,0,3
+Usual,Legend,K920A,Finished,0,3
+Easy,Lower A,S481A,In progress,3,0
+Usual,Legend,AN847,Finished,0,3
+Usual,Legend,S508A,Finished,0,3
+Easy,Lower A,K238A,Finished,3,0
+Usual,Legend,AN839,Kickback,0,3
+Easy,Lower A,S474A,Finished,3,0
+Usual,Legend,AN837,Finished,0,3
+Hard,Legend,K214A,Finished,0,5
+Easy,Lower A,AN642,In progress,3,0
+Usual,Paired A,AN922,Finished,3,0
+Easy,Lower B,AN847,Finished,3,0
+Easy,Lower A,K920A,In progress,3,0
+Usual,Legend,AN840,Finished,0,3
+Usual,Legend,S457A,Finished,0,3
+Easy,Lower A,S517A,In progress,4,0
+Usual,Legend,AN361,Finished,0,3
+Usual,Legend,S626A,Finished,0,3
+Usual,Legend,S622A,Finished,0,3
+Usual,Legend,K273A,Finished,0,3
+Usual,Legend,K266A,Finished,0,3
+Usual,Legend,S528A,Finished,0,3
+Usual,Legend,AN925,Finished,0,3
+Usual,Legend,K918A,Finished,0,3
+Usual,Legend,AN842,Finished,0,3
+Easy,Lower A,S551A,In progress,3,0
+Usual,Legend,AN853,Finished,0,3
+Usual,Legend,S440A,Finished,0,3
+Usual,Upper A,AN926,Finished,3,0
+Easy,Lower A,AN924,Finished,3,0
+Usual,Legend,AN855,Finished,0,3
+Usual,Legend,K288A,Finished,0,3
+Usual,Legend,S407A,Finished,0,3
+Usual,Legend,S532A,Kickback,0,4
+Usual,Legend,S403A,Finished,0,3
+Usual,Upper A,S536A,Finished,3,0
+Usual,Legend,AN839,Kickback,0,3
+Usual,Legend,AN361,Finished,0,3
+Usual,Legend,K260A,Finished,0,3
+Usual,Upper A,AN841,In progress,3,0
+Usual,Legend,AN928,Kickback,0,3
+Usual,Legend,S305A,Kickback,0,3
+Usual,Legend,S607A,Finished,0,4
+Usual,Legend,S614A,Finished,0,3
+Easy,Lower A,S625A,Finished,3,0
+Usual,Legend,AN629,Finished,0,3
+Usual,Legend,S528A,Finished,0,4
+Usual,Legend,AN361,Kickback,0,4
+Easy,Lower B,AN929,In progress,3,0
+Hard,Legend,T291B,Finished,0,3
+Hard,Legend,AN843,Finished,0,4
+Hard,Legend,S307A,Finished,0,3
+Usual,Legend,S596A,Finished,0,3
+Usual,Legend,S493A,Kickback,0,3
+Easy,Lower A,S520A,In progress,3,0
+Usual,Legend,AN637,Finished,0,3
+Usual,Legend,AN639,Finished,0,3
+Usual,Legend,AN853,Finished,0,3
+Usual,Paired A,K915A,Finished,3,0
+Usual,Legend,AN838,Finished,0,4
+Usual,Upper A,AN835,Finished,3,0
+Easy,Lower A,AN849,Finished,3,0
+Usual,Legend,AN921,Finished,0,3
+Easy,Lower B,AN922,Started,3,0
+Usual,Paired A,T291B,Finished,3,0
+Usual,Legend,AN639,Finished,0,3
+Usual,Legend,S588A,Finished,0,3
+Usual,Legend,S534A,Finished,0,3
+Usual,Upper A,K297A,Finished,3,0
+Easy,Lower A,AN629,Finished,3,0
+Easy,Lower A,AN636,Finished,3,0
+Hard,Lower A,AN849,In progress,3,0
+Usual,Legend,AN852,Finished,0,4
+Easy,Lower A,S531A,Finished,3,0
+Easy,Lower A,AN836,Finished,4,0
+Usual,Paired A,AN838,Finished,3,0
+Usual,Upper A,AN361,Finished,3,0
+Easy,Lower A,AN638,Finished,3,0
+Usual,Upper A,AN837,Finished,3,0
+Easy,Lower A,AN845,Finished,4,0
+Usual,Upper A,AN635,Finished,3,0
+Usual,Upper A,AN638,Kickback,3,0
+Easy,Lower A,AN849,Finished,3,0
+Easy,Lower A,AN361,Finished,3,0
+Easy,Lower A,AN922,Finished,3,0
+Easy,Lower A,AN364,Finished,3,0
+Easy,Lower A,AN364,Finished,3,0
+Easy,Lower A,AN836,Finished,3,0
+Usual,Legend,AN925,Finished,0,3
+Easy,Lower A,AN924,Finished,6,0
+Easy,Lower A,AN847,Finished,3,0
+Usual,Legend,AN926,Finished,0,3
+Easy,Lower A,S303A,Finished,3,0
+Easy,Lower A,AN840,Finished,4,0
+Easy,Lower A,AN922,Finished,3,0
+Easy,Lower A,AN924,Finished,3,0
+Easy,Lower A,AN923,Finished,3,0
+Easy,Lower A,AN855,Finished,3,0
+Easy,Lower A,AN849,Finished,3,0
+Easy,Lower A,AN851,Finished,35,0
+Easy,Lower A,AN839,Finished,3,0
+Easy,Lower A,AN851,Finished,3,0
+Easy,Lower A,AN926,Finished,3,0
+Easy,Lower A,AN840,Finished,3,0
+Usual,Paired A,AN924,In progress,3,0
+Easy,Lower A,AN637,Finished,3,0
+Easy,Lower A,AN638,Finished,3,0
+Usual,Legend,AN835,Finished,0,1
+Easy,Lower A,K253A,Finished,5,0
+Easy,Lower A,AN928,Finished,3,0
+Usual,Upper A,AN847,Finished,3,0
+Easy,Lower A,AN629,Finished,4,0
+Easy,Lower A,AN853,Finished,3,0
+Easy,Lower A,AN837,Finished,3,0
+Easy,Lower A,AN638,Finished,3,0
+Usual,Upper A,AN361,Finished,3,0
+Easy,Lower A,AN361,Finished,3,0
+Easy,Lower A,AN928,Finished,3,0
+Easy,Lower A,AN843,Finished,3,0
+Easy,Lower A,AN839,Finished,3,0
+Easy,Lower A,AN926,Kickback,3,0
+Easy,Lower A,AN835,Finished,3,0
+Easy,Lower A,AN849,Finished,3,0
+Easy,Lower A,AN930,Finished,3,0
+Easy,Lower A,AN847,Finished,3,0
+Usual,Upper A,AN836,Finished,3,0
+Easy,Lower A,AN847,Finished,3,0
+Easy,Lower A,AN638,Finished,3,0
+Usual,Upper A,AN847,Finished,3,0
+Easy,Lower A,AN843,Finished,3,0
+Usual,Paired A,AN361,Finished,3,0
+Easy,Lower A,AN921,Finished,3,0
+Usual,Upper A,AN925,Finished,3,0
+Usual,Upper A,AN840,Finished,3,0
+Usual,Legend,AN638,Finished,0,4
+Usual,Legend,K238A,Finished,0,3
+Usual,Upper A,AN926,Finished,3,0
+Easy,Lower A,AN851,Finished,3,0
+Easy,Lower A,AN921,Finished,3,0
+Easy,Lower A,AN847,Finished,3,0
+Usual,Legend,AN851,Finished,0,3
+Hard,Lower A,S309A,Finished,3,0
+Easy,Lower A,AN630,Finished,3,0
+Easy,Lower A,AN925,Finished,16,0
+Easy,Lower A,AN629,Finished,3,0
+Easy,Lower A,AN852,Finished,3,0
+Easy,Lower A,AN848,Finished,6,0
+Usual,Legend,AN849,Finished,0,4
+Easy,Lower A,S486A,Finished,3,0
+Usual,Upper A,AN926,Finished,3,0
+Easy,Lower A,AN846,Finished,3,0
+Easy,Lower A,AN847,Finished,3,0
+Easy,Lower A,AN845,Finished,3,0
+Usual,Legend,AN921,Finished,0,3
+Easy,Lower A,AN836,Finished,3,0
+Usual,Paired A,AN921,In progress,3,0
+Usual,Legend,AN637,Finished,0,3
+Hard,Legend,K280A,Finished,0,4
+Easy,Lower A,AN836,Finished,3,0
+Usual,Upper A,AN844,Finished,3,0
+Usual,Legend,AN854,Finished,0,3
+Easy,Lower A,S560A,Finished,3,0
+Usual,Legend,AN639,Finished,0,3
+Usual,Legend,S440A,Finished,0,3
+Easy,Lower A,AN635,Finished,3,0
+Usual,Upper A,AN842,Finished,3,0
+Easy,Lower A,AN930,Finished,3,0
+Easy,Lower A,AN845,Finished,3,0
+Easy,Lower A,AN835,Finished,3,0
+Easy,Lower A,AN847,Finished,3,0
+Easy,Lower A,AN844,Finished,3,0
+Easy,Lower A,AN928,Finished,3,0
+Easy,Lower A,AN840,Finished,3,0
+Easy,Lower A,AN928,Finished,3,0
+Easy,Lower A,AN846,Finished,3,0
+Easy,Lower A,AN638,In progress,3,0
+Easy,Lower A,AN639,Finished,3,0
+Easy,Lower A,AN853,Finished,3,0
+Easy,Lower A,AN639,Finished,3,0
+Easy,Lower A,AN839,Finished,3,0
+Easy,Lower A,AN853,Finished,4,0
+Easy,Lower A,AN851,Finished,3,0
+Easy,Lower A,AN847,Finished,3,0
+Hard,Lower A,AN638,Finished,4,0
+Easy,Lower A,AN854,Finished,4,0
+Easy,Lower A,AN837,Finished,3,0
+Easy,Lower A,AN846,Finished,3,0
+Easy,Lower A,AN629,Finished,3,0
+Easy,Lower A,AN928,Finished,3,0
+Usual,Legend,AN845,Finished,0,3
+Easy,Lower A,AN635,Finished,3,0
+Usual,Legend,AN849,Finished,0,3
+Easy,Lower A,S435A,Finished,3,0
+Usual,Legend,AN928,Finished,0,4
+Easy,Lower A,AN855,Finished,8,0
+Easy,Lower A,AN928,Finished,3,0
+Usual,Legend,AN636,Kickback,0,3
+Easy,Lower A,S486A,Finished,3,0
+Easy,Lower A,AN921,Finished,3,0
+Easy,Lower A,AN923,Finished,3,0
+Usual,Legend,AN845,Finished,0,3
+Usual,Upper A,S612A,Finished,3,0
+Usual,Legend,AN851,Finished,0,5
+Easy,Lower A,S626A,Finished,3,0
+Usual,Legend,AN837,Finished,0,3
+Usual,Paired A,K247A,Finished,3,0
+Easy,Lower A,AN839,Finished,3,0
+Easy,Lower A,AN846,Finished,3,0
+Easy,Lower A,AN836,In progress,4,0
+Usual,Paired A,AN851,Finished,3,0
+Easy,Lower A,AN364,Finished,3,0
+Easy,Lower A,AN847,Finished,4,0
+Usual,Legend,AN853,Finished,0,4
+Easy,Lower A,K913A,Finished,3,0
+Easy,Lower A,AN927,Finished,3,0
+Easy,Lower A,AN838,Finished,3,0
+Easy,Lower A,AN837,Finished,3,0
+Easy,Lower A,AN843,Finished,3,0
+Easy,Lower A,AN361,Finished,3,0
+Easy,Lower A,AN838,Finished,3,0
+Usual,Legend,AN843,Finished,0,4
+Easy,Lower A,AN630,Finished,3,0
+Usual,Upper A,AN837,Finished,3,0
+Usual,Paired A,AN637,In progress,3,0
+Easy,Lower A,AN361,Finished,3,0
+Usual,Legend,AN843,Finished,0,3
+Easy,Lower A,S529A,Finished,3,0
+Usual,Legend,AN843,Finished,0,3
+Usual,Legend,K278A,Finished,0,3
+Easy,Lower A,K284A,Finished,3,0
+Easy,Lower A,AN921,Finished,3,0
+Easy,Lower A,AN929,Finished,3,0
+Easy,Lower A,AN361,Finished,3,0
+Easy,Lower A,AN922,Finished,3,0
+Easy,Lower A,AN846,Finished,4,0
+Easy,Lower A,AN845,Finished,3,0
+Easy,Lower A,AN921,Finished,3,0
+Easy,Lower A,AN842,Finished,3,0
+Usual,Upper A,AN847,Finished,3,0
+Easy,Lower A,AN926,Finished,3,0
+Easy,Lower A,AN638,Finished,3,0
+Hard,Lower A,AN637,Finished,3,0
+Easy,Lower A,AN849,Finished,3,0
+Easy,Lower A,AN364,Finished,3,0
+Easy,Lower A,AN361,Finished,19,0
+Usual,Upper A,AN922,Finished,3,0
+Easy,Lower A,AN930,Finished,3,0
+Easy,Lower A,AN855,Finished,6,0
+Easy,Lower A,AN364,Finished,4,0
+Usual,Paired A,AN927,Finished,3,0
+Easy,Lower A,AN364,Finished,3,0
+Easy,Lower A,AN925,Finished,3,0
+Easy,Lower A,AN838,Finished,3,0
+Usual,Upper A,AN635,Finished,3,0
+Hard,Legend,AN854,Finished,0,3
+Usual,Upper A,AN837,In progress,3,0
+Usual,Legend,AN364,Kickback,0,3
+Easy,Lower A,AN924,Finished,3,0
+Easy,Lower A,AN840,Finished,3,0
+Easy,Lower A,AN638,Finished,3,0
+Easy,Lower A,AN364,Finished,3,0
+Usual,Legend,AN846,Finished,0,3
+Usual,Upper A,S563A,Finished,3,0
+Easy,Lower A,AN638,Finished,3,0
+Easy,Lower A,AN842,Finished,3,0
+Hard,Lower A,AN847,Finished,3,0
+Easy,Lower A,AN846,Finished,5,0
+Usual,PreLegend,AN847,Finished,0,2
+Usual,PreLegend,S435A,Finished,0,2
+Usual,PreLegend,S468A,Finished,0,0
+Usual,PreLegend,AN925,Finished,0,2
+Usual,PreLegend,K263A,Finished,0,2
+Usual,PreLegend,AN924,Finished,0,3
+Usual,PreLegend,S535A,Finished,0,3
+Hard,PreLegend,K265A,Finished,0,2
+Usual,PreLegend,S584A,Finished,0,2
+Usual,PreLegend,K274A,Finished,0,2
+Hard,PreLegend,S457A,Finished,0,2
+Usual,PreLegend,S625A,In progress,0,2
+Usual,PreLegend,K280A,Finished,0,2
+Usual,PreLegend,K913A,Finished,0,2
+Usual,PreLegend,S525A,Finished,0,2
+Usual,PreLegend,AN854,Finished,0,2
+Usual,PreLegend,AN849,Finished,0,2
+Usual,PreLegend,K292A,Kickback,0,2
+Usual,PreLegend,S546A,Finished,0,2
+Usual,PreLegend,AN928,Finished,0,2
+Usual,PreLegend,S487A,Finished,0,2
+Usual,PreLegend,S487A,Finished,0,2
+Usual,PreLegend,S609A,Kickback,0,2
+Usual,PreLegend,K280A,Finished,0,2
+Usual,PreLegend,S464A,Finished,0,2
+Usual,PreLegend,AN361,Finished,0,2
+Usual,PreLegend,S472A,Finished,0,2
+Usual,Upper A,S556A,Finished,2,0
+Hard,Lower A,AN629,Finished,2,0
+Usual,PreLegend,AN852,Finished,0,2
+Usual,PreLegend,K287A,Finished,0,2
+Usual,PreLegend,S486A,Finished,0,2
+Usual,PreLegend,AN926,Kickback,0,3
+Usual,PreLegend,K253A,Finished,0,2
+Usual,PreLegend,AN924,Finished,0,1
+Usual,PreLegend,S309A,Finished,0,2
+Usual,Paired A,S535A,Finished,2,0
+Usual,PreLegend,AN849,Finished,0,3
+Usual,PreLegend,S517A,In progress,0,2
+Usual,PreLegend,S518A,Finished,0,2
+Easy,Lower A,AN852,Finished,2,0
+Usual,PreLegend,AN361,Finished,0,2
+Usual,PreLegend,S615A,Finished,0,2
+Usual,PreLegend,S440A,Finished,0,2
+Usual,PreLegend,AN835,Kickback,0,2
+Usual,PreLegend,S320A,Finished,0,2
+Usual,PreLegend,S533A,Finished,0,2
+Easy,Lower A,K283A,In progress,2,0
+Usual,PreLegend,AN926,Finished,0,2
+Usual,PreLegend,S309A,Finished,0,2
+Usual,PreLegend,S589A,Finished,0,2
+Usual,PreLegend,S428A,Finished,0,2
+Usual,PreLegend,S494A,In progress,0,2
+Usual,PreLegend,S579A,Finished,0,2
+Easy,Lower A,S323A,Finished,2,0
+Usual,PreLegend,AN838,Finished,0,2
+Usual,PreLegend,AN926,Finished,0,2
+Usual,PreLegend,K236A,Kickback,0,2
+Usual,PreLegend,S457A,Finished,0,2
+Usual,PreLegend,AN837,Finished,0,2
+Usual,Upper A,K238A,Finished,2,0
+Usual,PreLegend,AN839,Finished,0,2
+Usual,Upper A,S474A,Finished,2,0
+Usual,PreLegend,AN842,Finished,0,2
+Usual,PreLegend,S622A,Finished,0,3
+Usual,PreLegend,AN836,Finished,0,2
+Usual,PreLegend,S587A,Finished,0,3
+Usual,PreLegend,S597A,Finished,0,2
+Usual,PreLegend,K272A,Finished,0,2
+Usual,PreLegend,S570A,Finished,0,2
+Usual,PreLegend,K237A,Finished,0,2
+Usual,PreLegend,S467A,Finished,0,2
+Usual,PreLegend,AN924,Finished,0,2
+Usual,PreLegend,S520A,Finished,0,2
+Usual,PreLegend,S305A,Finished,0,2
+Usual,PreLegend,AN847,Kickback,0,2
+Usual,PreLegend,AN841,Finished,0,2
+Usual,PreLegend,S305A,Kickback,0,2
+Usual,PreLegend,S579A,Finished,0,2
+Usual,PreLegend,K294A,Finished,0,2
+Usual,PreLegend,S303A,Finished,0,2
+Usual,PreLegend,S518A,Finished,0,2
+Usual,Upper A,S534A,In progress,2,0
+Easy,Lower A,AN846,Finished,2,0
+Usual,PreLegend,AN638,Finished,0,2
+Usual,Upper A,S309A,Finished,2,0
+Usual,PreLegend,AN929,Finished,0,2
+Usual,Upper A,S585A,Finished,2,0
+Usual,Upper A,AN837,Finished,2,0
+Usual,PreLegend,AN642,Finished,0,4
+Usual,PreLegend,S518A,Finished,0,2
+Usual,PreLegend,K294A,Finished,0,2
+Easy,Lower A,AN840,Finished,2,0
+Usual,PreLegend,AN635,Finished,0,5
+Usual,PreLegend,S513A,Finished,0,2
+Easy,Lower A,AN630,Finished,2,0
+Usual,PreLegend,AN838,Finished,0,2
+Easy,Lower A,S532A,Finished,2,0
+Easy,Lower A,AN928,Finished,2,0
+Usual,PreLegend,AN848,Kickback,0,2
+Usual,PreLegend,S306A,Finished,0,2
+Usual,PreLegend,S419A,Finished,0,2
+Usual,PreLegend,AN844,Finished,0,2
+Usual,PreLegend,K284A,Finished,0,3
+Usual,PreLegend,S530A,Kickback,0,2
+Easy,Lower A,K292A,Finished,2,0
+Usual,PreLegend,AN844,Finished,0,2
+Usual,PreLegend,S581A,Finished,0,2
+Usual,PreLegend,S520A,Finished,0,2
+Hard,PreLegend,S309A,In progress,0,2
+Usual,PreLegend,S448A,Finished,0,2
+Usual,PreLegend,K248A,Finished,0,2
+Usual,Paired A,K918A,Finished,2,0
+Usual,PreLegend,AN638,Kickback,0,2
+Usual,Upper A,S472A,Finished,2,0
+Usual,PreLegend,AN639,Finished,0,2
+Easy,Lower A,AN922,In progress,2,0
+Usual,PreLegend,AN638,Finished,0,2
+Usual,PreLegend,S423A,Kickback,0,2
+Usual,PreLegend,S588A,Finished,0,2
+Usual,PreLegend,S533A,Finished,0,2
+Usual,PreLegend,S519A,Finished,0,2
+Usual,PreLegend,K292A,Finished,0,2
+Usual,PreLegend,S614A,Finished,0,2
+Usual,PreLegend,S581A,Finished,0,2
+Usual,PreLegend,K272A,Finished,0,2
+Usual,PreLegend,S529A,Finished,0,4
+Usual,PreLegend,S577A,Kickback,0,4
+Usual,PreLegend,S453A,Finished,0,2
+Usual,PreLegend,S487A,Finished,0,2
+Easy,Lower A,K284A,Finished,2,0
+Usual,Upper A,AN836,Finished,2,0
+Usual,PreLegend,AN927,Finished,0,2
+Usual,PreLegend,S534A,Finished,0,2
+Usual,PreLegend,AN844,Finished,0,2
+Usual,PreLegend,AN844,Finished,0,2
+Usual,PreLegend,S529A,Finished,0,2
+Usual,PreLegend,S478A,Kickback,0,2
+Usual,Upper A,S467A,In progress,2,0
+Usual,PreLegend,AN847,Finished,0,2
+Usual,PreLegend,AN844,Finished,0,2
+Usual,PreLegend,S562A,Finished,0,2
+Usual,PreLegend,AN835,Finished,0,2
+Usual,PreLegend,S568A,Finished,0,2
+Usual,PreLegend,S459A,Finished,0,2
+Usual,PreLegend,S440A,Finished,0,2
+Easy,Lower A,S494A,Finished,2,0
+Usual,PreLegend,AN849,Finished,0,2
+Usual,PreLegend,S537A,Kickback,0,2
+Usual,PreLegend,AN840,Finished,0,2
+Usual,PreLegend,S474A,Finished,0,2
+Usual,PreLegend,S479A,Finished,0,2
+Usual,PreLegend,S433A,Finished,0,2
+Usual,PreLegend,S468A,Finished,0,2
+Usual,PreLegend,K296A,Finished,0,2
+Usual,PreLegend,S532A,Finished,0,0
+Usual,PreLegend,S627A,Finished,0,2
+Hard,PreLegend,K913A,Finished,0,2
+Usual,PreLegend,AN839,Finished,0,2
+Usual,Upper A,AN638,Finished,2,0
+Usual,PreLegend,AN639,Finished,0,2
+Usual,PreLegend,S433A,Finished,0,2
+Usual,PreLegend,S557A,Finished,0,2
+Usual,PreLegend,AN840,Finished,0,2
+Usual,PreLegend,AN921,Finished,0,2
+Usual,PreLegend,S514A,Finished,0,2
+Usual,PreLegend,K248A,Kickback,0,2
+Hard,PreLegend,S559A,Finished,0,2
