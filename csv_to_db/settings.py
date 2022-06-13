@@ -79,7 +79,7 @@ WSGI_APPLICATION = 'csv_to_db.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
-
+#
 DATABASES = {
     'default': env.db(),
 }
