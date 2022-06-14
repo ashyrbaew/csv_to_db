@@ -26,8 +26,10 @@ $ pip install -r requirements.txt
 * copy/rename and update .env_sample file into project root dir as .env, with same folder as settings.py,
 by default it is set up for Production environment
 * update .env file settings(db, etc) according to your system
-
+* Run below 2 commands at project directory, first command is to import
+large csv files into db, just `python manage.py import_csv path/to/file.csv`
 ```bash
+$ python manage.py import_csv /Users/akylbek/Desktop/test_data.csv
 $ python ./manage.py runserver
 ```
 
