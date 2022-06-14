@@ -2,19 +2,19 @@
 ### Simple app to import CSV into DB &amp; get stats via API
 
 
-### Technical requirements for Project:
+## Technical requirements for Project:
     Python 3.9
     Django 3.2
 ---
 
-### Project Description
+## Project Description
 A simple app which can import huge CSV files into DB using Python/Django
 and provide it via API. To test it, please follow below steps:
 
 ---
 
 
-### Running Project locally
+## Running Project locally
 * Below commands copies the project to your machine and runs locally 
 
 ```bash
@@ -31,8 +31,9 @@ by default it is set up for Production environment
 $ python ./manage.py runserver
 ```
 
+---
 
-### Starting Project at Production server, follow below steps:
+## Starting Project at Production server, follow below steps:
 * copy/rename and update .env_sample file into project root dir as .env, with same folder as settings.py,
 by default it is set up for Production environment
 * It will automatically imports test_data.csv file into postgres db 
