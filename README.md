@@ -23,7 +23,7 @@ $ virtualenv -p python3.9 .venv
 $ source .venv/bin/activate
 $ pip install -r requirements.txt
 ```
-* copy & update .env file into project root dir, with same folder as settings.py,
+* copy/rename and update .env_sample file into project root dir as .env, with same folder as settings.py,
 by default it is set up for Production environment
 * update .env file settings(db, etc) according to your system
 
@@ -33,6 +33,8 @@ $ python ./manage.py runserver
 
 
 ### Starting Project at Production server, follow below steps:
+* copy/rename and update .env_sample file into project root dir as .env, with same folder as settings.py,
+by default it is set up for Production environment
 * It will automatically imports test_data.csv file into postgres db 
 * Automaticllay creates user admin, with password admin, so, you can open
 djangos built-in admin panel and login with above user/pass to check 
