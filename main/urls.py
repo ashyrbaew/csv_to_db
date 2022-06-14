@@ -6,9 +6,9 @@ app_name = 'main'
 
 router = routers.SimpleRouter()
 
-router.register('stats/aircraft', AircraftViewSet, basename='aircraft')
-router.register('stats/status', StatusViewSet, basename='status')
-router.register('stats/type', TypeViewSet, basename='stotypere')
+router.register('api/aircraft', AircraftViewSet, basename='aircraft')
+router.register('api/status', StatusViewSet, basename='status')
+router.register('api/type', TypeViewSet, basename='stotypere')
 
 urlpatterns = [
     path('', include(router.urls)),

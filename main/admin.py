@@ -9,19 +9,3 @@ class BlackboxAdmin(admin.ModelAdmin):
         'repeat_legend', 'upper_a', 'lower_a', 'paired_a'
     ]
 
-
-
-# aircraft
-# status
-# type
-# info_count
-# errors_count
-# pre_legend
-# warning
-# paired_b
-# legend
-# lower_b
-# repeat_legend
-# upper_a
-# lower_a
-# paired_a
