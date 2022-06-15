@@ -20,3 +20,14 @@ class Blackbox(models.Model):
 
     def __str__(self):
         return str(self.aircraft)
+
+#
+# 'pre_legend',
+# 'warning',
+# 'paired_b',
+# 'legend',
+# 'lower_b',
+# 'repeat_legend',
+# 'upper_a',
+# 'lower_a',
+# 'paired_a',
